@@ -1,0 +1,579 @@
+﻿Provincia;Cantón;Distrito;Acumulados;Recuperados;Fallecidos;Activos
+San José;Acosta;Cangrejal;  46;  27; 0;19
+San José;Acosta;Guaitil;  63;  52;  1;10
+San José;Acosta;Palmichal;  127;  103; 0;24
+San José;Acosta;Sabanillas;  21;  15; 0;6
+San José;Acosta;San Ignacio;  302;  248;  1;53
+San José;Acosta;Sin información de distrito;  3;  2; 0;1
+San José;Alajuelita;Alajuelita;  764;  557;  16;191
+San José;Alajuelita;Concepción;1059;744;12;303
+San José;Alajuelita;San Antonio;170;112;3;55
+San José;Alajuelita;San Felipe;1874;1428;18;428
+San José;Alajuelita;San Josecito;589;413;2;174
+San José;Alajuelita;Sin información de distrito;8;8;0;0
+San José;Aserrí;Aserrí;813;415;8;390
+San José;Aserrí;Legua;2;2;0;0
+San José;Aserrí;Monterrey;7;3;0;4
+San José;Aserrí;Salitrillos;200;109;4;87
+San José;Aserrí;San Gabriel;79;30;1;48
+San José;Aserrí;Tarbaca;42;17;0;25
+San José;Aserrí;Vuelta de Jorco;172;74;0;98
+San José;Aserrí;Sin información de distrito;17;17;0;0
+San José;Curridabat;Curridabat;973;659;12;302
+San José;Curridabat;Granadilla;459;336;8;115
+San José;Curridabat;Sánchez;109;76;0;33
+San José;Curridabat;Tirrases;853;697;15;141
+San José;Curridabat;Sin información de distrito;16;15;0;1
+San José;Desamparados;Damas;379;186;8;185
+San José;Desamparados;Desamparados;1186;613;31;542
+San José;Desamparados;Frailes;23;10;0;13
+San José;Desamparados;Gravilias;323;147;5;171
+San José;Desamparados;Los Guido;1006;477;14;515
+San José;Desamparados;Patarra;287;145;3;139
+San José;Desamparados;Rosario;46;25;2;19
+San José;Desamparados;San Antonio;243;111;6;126
+San José;Desamparados;San Cristobal;38;17;0;21
+San José;Desamparados;San Juan de Dios;611;307;9;295
+San José;Desamparados;San Miguel;1386;592;12;782
+San José;Desamparados;San Rafael Abajo;1036;577;8;451
+San José;Desamparados;San Rafael Arriba;557;207;10;340
+San José;Desamparados;Sin información de distrito;26;24;1;1
+San José;Dota;Copey;1;1;0;0
+San José;Dota;Jardín;4;4;0;0
+San José;Dota;Santa María;12;10;0;2
+San José;Dota;Sin información de distrito;0;0;0;0
+San José;Escazú;Escazú;453;397;8;48
+San José;Escazú;San Antonio;515;461;11;43
+San José;Escazú;San Rafael;630;574;4;52
+San José;Escazú;Sin información de distrito;15;15;0;0
+San José;Goicoechea;Calle Blancos;392;274;7;111
+San José;Goicoechea;Guadalupe;749;469;15;265
+San José;Goicoechea;Ipis;731;501;19;211
+San José;Goicoechea;Mata de Plátano;427;293;4;130
+San José;Goicoechea;Purral;925;683;7;235
+San José;Goicoechea;Rancho Redondo;96;59;0;37
+San José;Goicoechea;San Francisco;43;36;2;5
+San José;Goicoechea;Sin información de distrito;23;20;0;3
+San José;León Cortés Castro;Llano Bonito;2;2;0;0
+San José;León Cortés Castro;San Andrés;4;4;0;0
+San José;León Cortés Castro;San Antonio;14;14;0;0
+San José;León Cortés Castro;San Isidro;4;4;0;0
+San José;León Cortés Castro;San Pablo;24;19;0;5
+San José;León Cortés Castro;Santa Cruz;6;0;0;6
+San José;León Cortés Castro;Sin información de distrito;0;0;0;0
+San José;Montes de Oca;Mercedes;44;29;0;15
+San José;Montes de Oca;Sabanilla;199;158;1;40
+San José;Montes de Oca;San Pedro;513;356;8;149
+San José;Montes de Oca;San Rafael;263;197;2;64
+San José;Montes de Oca;Sin información de distrito;6;4;0;2
+San José;Mora;Colón;416;311;6;99
+San José;Mora;Guayabo;95;78;2;15
+San José;Mora;Jaris;5;4;0;1
+San José;Mora;Picagres;6;6;0;0
+San José;Mora;Piedras Negras;4;2;0;2
+San José;Mora;Quitirrisí;12;12;0;0
+San José;Mora;Tabarcia;96;83;1;12
+San José;Mora;Sin información de distrito;4;4;0;0
+San José;Moravia;La Trinidad;456;357;8;91
+San José;Moravia;San Jerónimo;108;87;1;20
+San José;Moravia;San Vicente;486;389;5;92
+San José;Moravia;Sin información de distrito;5;5;0;0
+San José;Pérez Zeledón;Barú;0;0;0;0
+San José;Pérez Zeledón;Cajón;41;7;0;34
+San José;Pérez Zeledón;Daniel Flores;164;45;2;117
+San José;Pérez Zeledón;El General;3;1;0;2
+San José;Pérez Zeledón;La Amistad;3;0;0;3
+San José;Pérez Zeledón;Paramo;11;5;0;6
+San José;Pérez Zeledón;Pejibaye;45;3;0;42
+San José;Pérez Zeledón;Platanares;20;4;0;16
+San José;Pérez Zeledón;Río Nuevo;13;5;0;8
+San José;Pérez Zeledón;Rivas;14;2;1;11
+San José;Pérez Zeledón;San Isidro de El General;212;55;0;157
+San José;Pérez Zeledón;San Pedro;16;8;0;8
+San José;Pérez Zeledón;Sin información de distrito;2;2;0;0
+San José;Puriscal;Barbacoas;72;54;0;18
+San José;Puriscal;Candelarita;19;17;1;1
+San José;Puriscal;Chires;14;8;0;6
+San José;Puriscal;Desamparaditos;10;6;0;4
+San José;Puriscal;Grifo Alto;12;8;1;3
+San José;Puriscal;Mercedes Sur;74;58;2;14
+San José;Puriscal;San Antonio;86;65;0;21
+San José;Puriscal;San Rafael;44;38;1;5
+San José;Puriscal;Santiago;194;146;2;46
+San José;Puriscal;Sin información de distrito;0;0;0;0
+San José;San José;Catedral;757;589;9;159
+San José;San José;El Carmen;311;177;5;129
+San José;San José;Hatillo;2329;1957;44;328
+San José;San José;Hospital;1571;1257;34;280
+San José;San José;Mata Redonda;290;203;6;81
+San José;San José;Merced;873;556;11;306
+San José;San José;Pavas;5068;4036;46;986
+San José;San José;San Francisco de Dos Ríos;459;342;6;111
+San José;San José;San Sebastián;1972;1626;28;318
+San José;San José;Uruca;2593;1926;42;625
+San José;San José;Zapote;598;409;13;176
+San José;San José;Sin información de distrito;78;75;0;3
+San José;Santa Ana;Brasil;51;32;1;18
+San José;Santa Ana;Piedades;219;166;3;50
+San José;Santa Ana;Pozos;516;395;5;116
+San José;Santa Ana;Salitral;111;83;1;27
+San José;Santa Ana;Santa Ana;462;320;5;137
+San José;Santa Ana;Uruca;276;189;2;85
+San José;Santa Ana;Sin información de distrito;45;43;0;2
+San José;Tarrazú;San Carlos;4;2;0;2
+San José;Tarrazú;San Lorenzo;9;3;0;6
+San José;Tarrazú;San Marcos;43;25;1;17
+San José;Tarrazú;Sin información de distrito;0;0;0;0
+San José;Tibás;Anselmo Llorente;138;54;4;80
+San José;Tibás;Cinco Esquinas;454;219;8;227
+San José;Tibás;Colima;379;166;4;209
+San José;Tibás;León XIII;837;462;11;364
+San José;Tibás;San Juan;514;251;16;247
+San José;Tibás;Sin información de distrito;13;11;0;2
+San José;Turrubares;Carara;18;10;0;8
+San José;Turrubares;San Juan de Mata;17;12;0;5
+San José;Turrubares;San Luis;2;1;0;1
+San José;Turrubares;San Pablo;22;13;0;9
+San José;Turrubares;San Pedro;8;7;0;1
+San José;Turrubares;Sin información de distrito;0;0;0;0
+San José;Vazquez de Coronado;Cascajal;184;132;2;50
+San José;Vazquez de Coronado;Dulce Nombre de Jesús;264;191;6;67
+San José;Vazquez de Coronado;Patalillo;462;335;6;121
+San José;Vazquez de Coronado;San Isidro;399;278;9;112
+San José;Vazquez de Coronado;San Rafael;153;88;3;62
+San José;Vazquez de Coronado;Sin información de distrito;6;5;0;1
+San José;Sin información de Cantón;-1;0;0;0;0
+Alajuela;Alajuela;Alajuela;1588;678;40;870
+Alajuela;Alajuela;Carrizal;144;54;1;89
+Alajuela;Alajuela;Desamparados;614;258;6;350
+Alajuela;Alajuela;Garita;134;54;1;79
+Alajuela;Alajuela;Guácima;728;306;4;418
+Alajuela;Alajuela;Río Segundo;389;193;7;189
+Alajuela;Alajuela;Sabanilla;147;40;2;105
+Alajuela;Alajuela;San Antonio;754;280;4;470
+Alajuela;Alajuela;San Isidro;363;128;2;233
+Alajuela;Alajuela;San José;1022;384;8;630
+Alajuela;Alajuela;San Rafael;1454;691;16;747
+Alajuela;Alajuela;Sarapiquí;30;11;0;19
+Alajuela;Alajuela;Tambor;273;115;3;155
+Alajuela;Alajuela;Turrucares;175;75;2;98
+Alajuela;Alajuela;Sin información de distrito;16;12;0;4
+Alajuela;Atenas;Atenas;137;53;2;82
+Alajuela;Atenas;Concepción;68;29;0;39
+Alajuela;Atenas;Escobal;9;3;0;6
+Alajuela;Atenas;Jesús;46;26;0;20
+Alajuela;Atenas;Mercedes;62;15;0;47
+Alajuela;Atenas;San Isidro;51;14;1;36
+Alajuela;Atenas;San José;17;4;0;13
+Alajuela;Atenas;Santa Eulalia;19;7;0;12
+Alajuela;Atenas;Sin información de distrito;0;0;0;0
+Alajuela;Grecia;Bolivar;66;20;0;46
+Alajuela;Grecia;Grecia;316;98;7;211
+Alajuela;Grecia;Puente de Piedra;214;88;2;124
+Alajuela;Grecia;San Isidro;66;19;1;46
+Alajuela;Grecia;San José;87;29;1;57
+Alajuela;Grecia;San Roque;139;44;2;93
+Alajuela;Grecia;Tacares;141;51;3;87
+Alajuela;Grecia;Sin información de distrito;1;1;0;0
+Alajuela;Guatuso;Buenavista;18;13;0;5
+Alajuela;Guatuso;Cote;6;5;0;1
+Alajuela;Guatuso;Katira;33;23;1;9
+Alajuela;Guatuso;San Rafael;222;153;2;67
+Alajuela;Guatuso;Sin información de distrito;3;3;0;0
+Alajuela;Los Chiles;Caño Negro;4;4;0;0
+Alajuela;Los Chiles;El Amparo;47;31;2;14
+Alajuela;Los Chiles;Los Chiles;328;291;6;31
+Alajuela;Los Chiles;San Jorge;16;8;0;8
+Alajuela;Los Chiles;Sin información de distrito;20;20;0;0
+Alajuela;Naranjo;Cirrí Sur;90;34;1;55
+Alajuela;Naranjo;El Rosario;75;33;0;42
+Alajuela;Naranjo;Naranjo;374;173;4;197
+Alajuela;Naranjo;Palmitos;52;30;0;22
+Alajuela;Naranjo;San Jerónimo;99;32;1;66
+Alajuela;Naranjo;San José;31;21;0;10
+Alajuela;Naranjo;San Juan;84;14;2;68
+Alajuela;Naranjo;San Miguel;72;29;0;43
+Alajuela;Naranjo;Sin información de distrito;2;1;0;1
+Alajuela;Orotina;Coyolar;65;43;0;22
+Alajuela;Orotina;El Mastate;28;24;1;3
+Alajuela;Orotina;Hacienda Vieja;29;25;0;4
+Alajuela;Orotina;La Ceiba;13;9;0;4
+Alajuela;Orotina;Orotina;165;128;4;33
+Alajuela;Orotina;Sin información de distrito;3;3;0;0
+Alajuela;Palmares;Buenos Aires;103;39;0;64
+Alajuela;Palmares;Candelaria;24;12;0;12
+Alajuela;Palmares;Esquipulas;113;39;1;73
+Alajuela;Palmares;La Granja;61;30;0;31
+Alajuela;Palmares;Palmares;91;34;5;52
+Alajuela;Palmares;Santiago;29;15;0;14
+Alajuela;Palmares;Zaragoza;152;60;1;91
+Alajuela;Palmares;Sin información de distrito;1;1;0;0
+Alajuela;Poás;Carrillos;182;151;2;29
+Alajuela;Poás;Sabana Redonda;45;36;0;9
+Alajuela;Poás;San Juan;84;74;0;10
+Alajuela;Poás;San Pedro;163;136;1;26
+Alajuela;Poás;San Rafael;64;44;2;18
+Alajuela;Poás;Sin información de distrito;7;7;0;0
+Alajuela;Río Cuarto;Río Cuarto;243;72;0;171
+Alajuela;Río Cuarto;Santa Isabel;45;12;0;33
+Alajuela;Río Cuarto;Santa Rita;88;20;1;67
+Alajuela;Río Cuarto;Sin información de distrito;1;0;0;1
+Alajuela;San Carlos;Aguas Zarcas;416;233;3;180
+Alajuela;San Carlos;Buenavista;1;0;0;1
+Alajuela;San Carlos;Cutris;177;104;1;72
+Alajuela;San Carlos;Florencia;285;93;1;191
+Alajuela;San Carlos;La Fortuna;578;263;2;313
+Alajuela;San Carlos;La Palmera;135;62;0;73
+Alajuela;San Carlos;La Tigra;105;41;1;63
+Alajuela;San Carlos;Monterrey;44;13;0;31
+Alajuela;San Carlos;Pital;583;400;9;174
+Alajuela;San Carlos;Pocosol;251;147;1;103
+Alajuela;San Carlos;Quesada;988;481;10;497
+Alajuela;San Carlos;Venado;13;1;0;12
+Alajuela;San Carlos;Venecia;186;85;0;101
+Alajuela;San Carlos;Sin información de distrito;23;23;0;0
+Alajuela;San Mateo;Desmonte;3;2;0;1
+Alajuela;San Mateo;Jesús María;8;7;0;1
+Alajuela;San Mateo;Labrador;8;6;0;2
+Alajuela;San Mateo;San Mateo;19;11;1;7
+Alajuela;San Mateo;Sin información de distrito;1;1;0;0
+Alajuela;San Ramón;Alfaro;64;31;1;32
+Alajuela;San Ramón;Ángeles;58;16;1;41
+Alajuela;San Ramón;Concepción;27;6;0;21
+Alajuela;San Ramón;Peñas Blancas;180;114;2;64
+Alajuela;San Ramón;Piedades Norte;85;37;1;47
+Alajuela;San Ramón;Piedades Sur;35;8;1;26
+Alajuela;San Ramón;San Isidro;62;37;0;25
+Alajuela;San Ramón;San Juan;170;76;1;93
+Alajuela;San Ramón;San Lorenzo;4;0;0;4
+Alajuela;San Ramón;San Rafael;82;34;0;48
+Alajuela;San Ramón;San Ramón;217;86;1;130
+Alajuela;San Ramón;Santiago;71;27;1;43
+Alajuela;San Ramón;Volio;22;8;0;14
+Alajuela;San Ramón;Zapotal;0;0;0;0
+Alajuela;San Ramón;Sin información de distrito;8;8;0;0
+Alajuela;Sarchí;Rodríguez;15;2;0;13
+Alajuela;Sarchí;San Pedro;21;7;0;14
+Alajuela;Sarchí;Sarchí Norte;107;30;0;77
+Alajuela;Sarchí;Sarchí Sur;69;16;1;52
+Alajuela;Sarchí;Toro Amarillo;5;1;0;4
+Alajuela;Sarchí;Sin información de distrito;0;0;0;0
+Alajuela;Upala;Aguas Claras;18;10;0;8
+Alajuela;Upala;Bijagua;20;16;0;4
+Alajuela;Upala;Canalete;17;12;0;5
+Alajuela;Upala;Delicias;59;51;0;8
+Alajuela;Upala;Dos Ríos;3;0;0;3
+Alajuela;Upala;San José O Pizote;78;54;1;23
+Alajuela;Upala;Upala;146;113;4;29
+Alajuela;Upala;Yolillal;14;9;0;5
+Alajuela;Upala;Sin información de distrito;1;1;0;0
+Alajuela;Zarcero;Brisas;30;14;0;16
+Alajuela;Zarcero;Guadalupe;6;1;0;5
+Alajuela;Zarcero;Laguna;43;9;0;34
+Alajuela;Zarcero;Palmira;18;4;0;14
+Alajuela;Zarcero;Tapesco;45;7;0;38
+Alajuela;Zarcero;Zapote;6;0;0;6
+Alajuela;Zarcero;Zarcero;109;12;0;97
+Alajuela;Zarcero;Sin información de distrito;0;0;0;0
+Alajuela;Sin información de Cantón;-1;0;0;0;0
+Cartago;Alvarado;Capellades;21;17;0;4
+Cartago;Alvarado;Cervantes;47;25;1;21
+Cartago;Alvarado;Pacayas;46;27;1;18
+Cartago;Alvarado;Sin información de distrito;0;0;0;0
+Cartago;Cartago;Aguacaliente o San Francisco;389;196;1;192
+Cartago;Cartago;Carmen;273;153;2;118
+Cartago;Cartago;Corralillo;108;23;0;85
+Cartago;Cartago;Dulce Nombre;112;66;2;44
+Cartago;Cartago;Guadalupe o Arenilla;172;71;2;99
+Cartago;Cartago;Llano Grande;105;37;1;67
+Cartago;Cartago;Occidental;127;55;1;71
+Cartago;Cartago;Oriental;199;95;4;100
+Cartago;Cartago;Quebradilla;113;33;0;80
+Cartago;Cartago;San Nicolás;353;209;3;141
+Cartago;Cartago;Tierra Blanca;93;34;2;57
+Cartago;Cartago;Sin información de distrito;13;13;0;0
+Cartago;El Guarco;El Tejar;375;142;2;231
+Cartago;El Guarco;Patio de Agua;1;0;0;1
+Cartago;El Guarco;San Isidro;120;39;3;78
+Cartago;El Guarco;Tobosi;99;34;0;65
+Cartago;El Guarco;Sin información de distrito;2;2;0;0
+Cartago;Jiménez;Juan Viñas;39;30;0;9
+Cartago;Jiménez;Pejibaye;39;26;1;12
+Cartago;Jiménez;Tucurrique;30;28;0;2
+Cartago;Jiménez;Sin información de distrito;0;0;0;0
+Cartago;La Unión;Concepción;403;244;3;156
+Cartago;La Unión;Dulce Nombre;315;148;8;159
+Cartago;La Unión;Río Azul;370;194;4;172
+Cartago;La Unión;San Diego;520;290;6;224
+Cartago;La Unión;San Juan;198;93;3;102
+Cartago;La Unión;San Rafael;325;157;2;166
+Cartago;La Unión;San Ramón;71;44;0;27
+Cartago;La Unión;Tres Ríos;371;200;7;164
+Cartago;La Unión;Sin información de distrito;4;2;0;2
+Cartago;Oreamuno;Cipreses;60;36;0;24
+Cartago;Oreamuno;Cot;260;164;1;95
+Cartago;Oreamuno;Potrero Cerrado;42;16;1;25
+Cartago;Oreamuno;San Rafael;427;261;4;162
+Cartago;Oreamuno;Santa Rosa;61;35;0;26
+Cartago;Oreamuno;Sin información de distrito;2;2;0;0
+Cartago;Paraíso;Cachí;46;34;1;11
+Cartago;Paraíso;Llanos de Santa Lucía;154;130;2;22
+Cartago;Paraíso;Orosi;52;36;2;14
+Cartago;Paraíso;Paraíso;175;132;1;42
+Cartago;Paraíso;Santiago;35;29;2;4
+Cartago;Paraíso;Sin información de distrito;1;1;0;0
+Cartago;Turrialba;Chirripó;6;6;0;0
+Cartago;Turrialba;La Isabel;31;24;0;7
+Cartago;Turrialba;La Suiza;43;37;1;5
+Cartago;Turrialba;Pavones;15;13;0;2
+Cartago;Turrialba;Peralta;2;2;0;0
+Cartago;Turrialba;Santa Cruz;11;10;1;0
+Cartago;Turrialba;Santa Rosa;20;14;0;6
+Cartago;Turrialba;Santa Teresita;21;18;0;3
+Cartago;Turrialba;Tayutic;6;5;0;1
+Cartago;Turrialba;Tres Equis;3;1;0;2
+Cartago;Turrialba;Tuis;9;7;1;1
+Cartago;Turrialba;Turrialba;136;105;1;30
+Cartago;Turrialba;Sin información de distrito;2;2;0;0
+Cartago;Sin información de Cantón;-1;0;0;0;0
+Heredia;Barva;Barva;167;120;3;44
+Heredia;Barva;San José de la Montaña;105;68;0;37
+Heredia;Barva;San Pablo;166;121;1;44
+Heredia;Barva;San Pedro;256;206;1;49
+Heredia;Barva;San Roque;103;79;1;23
+Heredia;Barva;Santa Lucía;149;113;4;32
+Heredia;Barva;Sin información de distrito;5;5;0;0
+Heredia;Belén;La Asunción;98;69;0;29
+Heredia;Belén;La Ribera;248;179;1;68
+Heredia;Belén;San Antonio;261;186;3;72
+Heredia;Belén;Sin información de distrito;2;1;0;1
+Heredia;Flores;Barrantes;114;76;1;37
+Heredia;Flores;Llorente;234;160;0;74
+Heredia;Flores;San Joaquín;210;152;2;56
+Heredia;Flores;Sin información de distrito;1;1;0;0
+Heredia;Heredia;Heredia;627;357;12;258
+Heredia;Heredia;Mercedes;610;374;9;227
+Heredia;Heredia;San Francisco;2202;1345;30;827
+Heredia;Heredia;Ulloa;785;400;15;370
+Heredia;Heredia;Varablanca;2;1;0;1
+Heredia;Heredia;Sin información de distrito;9;7;0;2
+Heredia;San Isidro;Concepción;72;39;2;31
+Heredia;San Isidro;San Francisco;118;74;1;43
+Heredia;San Isidro;San Isidro;247;178;5;64
+Heredia;San Isidro;San José;167;75;2;90
+Heredia;San Isidro;Sin información de distrito;1;1;0;0
+Heredia;San Pablo;Rincón de Sabanilla;154;105;1;48
+Heredia;San Pablo;San Pablo;569;345;11;213
+Heredia;San Pablo;Sin información de distrito;1;1;0;0
+Heredia;San Rafael;Ángeles;202;148;1;53
+Heredia;San Rafael;Concepción;99;66;0;33
+Heredia;San Rafael;San Josecito;357;270;1;86
+Heredia;San Rafael;San Rafael;322;228;8;86
+Heredia;San Rafael;Santiago;186;135;3;48
+Heredia;San Rafael;Sin información de distrito;10;8;0;2
+Heredia;Santa Bárbara;Jesús;163;101;0;62
+Heredia;Santa Bárbara;Purabá;68;24;0;44
+Heredia;Santa Bárbara;San Juan;180;115;1;64
+Heredia;Santa Bárbara;San Pedro;81;45;0;36
+Heredia;Santa Bárbara;Santa Bárbara;228;131;1;96
+Heredia;Santa Bárbara;Santo Domingo;50;18;0;32
+Heredia;Santa Bárbara;Sin información de distrito;1;1;0;0
+Heredia;Santo Domingo;Pará;157;77;0;80
+Heredia;Santo Domingo;Paracito;55;32;0;23
+Heredia;Santo Domingo;San Miguel;133;69;3;61
+Heredia;Santo Domingo;San Vicente;200;95;2;103
+Heredia;Santo Domingo;Santa Rosa;287;165;2;120
+Heredia;Santo Domingo;Santo Domingo;193;114;4;75
+Heredia;Santo Domingo;Santo Tomás;109;60;1;48
+Heredia;Santo Domingo;Tures;137;64;0;73
+Heredia;Santo Domingo;Sin información de distrito;0;0;0;0
+Heredia;Sarapiquí;Cureña;4;0;0;4
+Heredia;Sarapiquí;La Virgen;134;91;2;41
+Heredia;Sarapiquí;Las Horquetas;331;181;1;149
+Heredia;Sarapiquí;Llanuras del Gaspar;3;1;0;2
+Heredia;Sarapiquí;Puerto Viejo;244;126;0;118
+Heredia;Sarapiquí;Sin información de distrito;2;2;0;0
+Heredia;Sin información de Cantón;;0;0;0;0
+Guanacaste;Abangares;Colorado;30;21;0;9
+Guanacaste;Abangares;Las Juntas;118;88;0;30
+Guanacaste;Abangares;San Juan;16;10;0;6
+Guanacaste;Abangares;Sierra;25;21;0;4
+Guanacaste;Abangares;Sin información de distrito;0;0;0;0
+Guanacaste;Bagaces;Bagaces;109;70;1;38
+Guanacaste;Bagaces;La Fortuna;17;16;0;1
+Guanacaste;Bagaces;Mogote;20;11;0;9
+Guanacaste;Bagaces;Río Naranjo;9;9;0;0
+Guanacaste;Bagaces;Sin información de distrito;2;2;0;0
+Guanacaste;Cañas;Bebedero;14;11;0;3
+Guanacaste;Cañas;Cañas;326;241;2;83
+Guanacaste;Cañas;Palmira;8;6;0;2
+Guanacaste;Cañas;Porozal;1;0;0;1
+Guanacaste;Cañas;San Miguel;20;17;0;3
+Guanacaste;Cañas;Sin información de distrito;2;2;0;0
+Guanacaste;Carrillo;Belén;50;29;1;20
+Guanacaste;Carrillo;Filadelfia;58;39;1;18
+Guanacaste;Carrillo;Palmira;38;31;0;7
+Guanacaste;Carrillo;Sardinal;70;46;1;23
+Guanacaste;Carrillo;Sin información de distrito;5;5;0;0
+Guanacaste;Hojancha;Hojancha;80;67;1;12
+Guanacaste;Hojancha;Huacas;1;1;0;0
+Guanacaste;Hojancha;Matambú;11;11;0;0
+Guanacaste;Hojancha;Monte Romo;2;1;0;1
+Guanacaste;Hojancha;Puerto Carrillo;4;3;0;1
+Guanacaste;Hojancha;Sin información de distrito;0;0;0;0
+Guanacaste;La Cruz;La Cruz;250;180;1;69
+Guanacaste;La Cruz;La Garita;21;16;0;5
+Guanacaste;La Cruz;Santa Cecilia;38;32;0;6
+Guanacaste;La Cruz;Santa Elena;7;4;0;3
+Guanacaste;La Cruz;Sin información de distrito;1;1;0;0
+Guanacaste;Liberia;Cañas Dulces;29;3;0;26
+Guanacaste;Liberia;Curubandé;13;0;0;13
+Guanacaste;Liberia;Liberia;797;191;3;603
+Guanacaste;Liberia;Mayorga;11;1;0;10
+Guanacaste;Liberia;Nacascolo;16;4;0;12
+Guanacaste;Liberia;Sin información de distrito;1;1;0;0
+Guanacaste;Nandayure;Bejuco;13;12;0;1
+Guanacaste;Nandayure;Carmona;19;12;1;6
+Guanacaste;Nandayure;Porvenir;5;3;2;0
+Guanacaste;Nandayure;San Pablo;13;10;0;3
+Guanacaste;Nandayure;Santa Rita;10;9;0;1
+Guanacaste;Nandayure;Zapotal;7;4;1;2
+Guanacaste;Nandayure;Sin información de distrito;0;0;0;0
+Guanacaste;Nicoya;Belén de Nosarita;16;6;0;10
+Guanacaste;Nicoya;Mansión;40;17;2;21
+Guanacaste;Nicoya;Nicoya;429;295;6;128
+Guanacaste;Nicoya;Nosara;97;54;2;41
+Guanacaste;Nicoya;Quebrada Honda;35;9;0;26
+Guanacaste;Nicoya;Sámara;30;19;0;11
+Guanacaste;Nicoya;San Antonio;70;34;3;33
+Guanacaste;Nicoya;Sin información de distrito;2;1;0;1
+Guanacaste;Santa Cruz;Bolsón;8;6;0;2
+Guanacaste;Santa Cruz;Cabo Velas;30;15;1;14
+Guanacaste;Santa Cruz;Cartagena;48;16;0;32
+Guanacaste;Santa Cruz;Cuajiniquil;22;18;0;4
+Guanacaste;Santa Cruz;Diriá;31;13;0;18
+Guanacaste;Santa Cruz;Santa Cruz;272;124;1;147
+Guanacaste;Santa Cruz;Tamarindo;36;21;0;15
+Guanacaste;Santa Cruz;Tempate;153;15;0;138
+Guanacaste;Santa Cruz;Veintisiete de Abril;35;26;1;8
+Guanacaste;Santa Cruz;Sin información de distrito;6;6;0;0
+Guanacaste;Tilarán;Arenal;18;16;2;0
+Guanacaste;Tilarán;Líbano;4;1;0;3
+Guanacaste;Tilarán;Quebrada Grande;21;11;0;10
+Guanacaste;Tilarán;Santa Rosa;15;5;0;10
+Guanacaste;Tilarán;Tierras Morenas;6;2;0;4
+Guanacaste;Tilarán;Tilarán;81;51;1;29
+Guanacaste;Tilarán;Tronadora;11;8;0;3
+Guanacaste;Tilarán;Sin información de distrito;0;0;0;0
+Guanacaste;Sin información de Cantón;-1;0;0;0;0
+Puntarenas;Buenos Aires;Biolley;4;2;1;1
+Puntarenas;Buenos Aires;Boruca;14;3;0;11
+Puntarenas;Buenos Aires;Brunka;15;2;1;12
+Puntarenas;Buenos Aires;Buenos Aires;195;22;4;169
+Puntarenas;Buenos Aires;Chánguena;0;0;0;0
+Puntarenas;Buenos Aires;Colinas;2;0;0;2
+Puntarenas;Buenos Aires;Pilas;1;0;0;1
+Puntarenas;Buenos Aires;Potrero Grande;22;2;2;18
+Puntarenas;Buenos Aires;Volcán;8;2;0;6
+Puntarenas;Buenos Aires;Sin información de distrito;0;0;0;0
+Puntarenas;Corredores;Canoas;396;244;3;149
+Puntarenas;Corredores;Corredor;411;238;2;171
+Puntarenas;Corredores;La Cuesta;162;94;2;66
+Puntarenas;Corredores;Laurel;136;86;2;48
+Puntarenas;Corredores;Sin información de distrito;1;0;0;1
+Puntarenas;Coto Brus;Aguabuena;15;8;0;7
+Puntarenas;Coto Brus;Gutiérrez Braun;14;1;1;12
+Puntarenas;Coto Brus;Limoncito;10;1;0;9
+Puntarenas;Coto Brus;Pittier;13;0;0;13
+Puntarenas;Coto Brus;Sabalito;30;13;0;17
+Puntarenas;Coto Brus;San Vito;68;12;5;51
+Puntarenas;Coto Brus;Sin información de distrito;0;0;0;0
+Puntarenas;Esparza;Caldera;31;23;1;7
+Puntarenas;Esparza;Espíritu Santo;332;257;5;70
+Puntarenas;Esparza;Macacona;99;71;1;27
+Puntarenas;Esparza;San Jerónimo;17;11;0;6
+Puntarenas;Esparza;San Juan Grande;82;59;1;22
+Puntarenas;Esparza;San Rafael;14;11;0;3
+Puntarenas;Esparza;Sin información de distrito;3;2;0;1
+Puntarenas;Garabito;Jacó;438;236;4;198
+Puntarenas;Garabito;Tárcoles;75;40;3;32
+Puntarenas;Garabito;Sin información de distrito;3;3;0;0
+Puntarenas;Golfito;Golfito;100;71;0;29
+Puntarenas;Golfito;Guaycará;164;62;1;101
+Puntarenas;Golfito;Pavón;71;41;1;29
+Puntarenas;Golfito;Puerto Jiménez;52;7;0;45
+Puntarenas;Golfito;Sin información de distrito;0;0;0;0
+Puntarenas;Montes de Oro;La Unión;7;4;0;3
+Puntarenas;Montes de Oro;Miramar;230;120;5;105
+Puntarenas;Montes de Oro;San Isidro;81;44;0;37
+Puntarenas;Montes de Oro;Sin información de distrito;0;0;0;0
+Puntarenas;Osa;Bahía Ballena;18;8;0;10
+Puntarenas;Osa;Bahía Drake;5;2;0;3
+Puntarenas;Osa;Palmar;192;92;11;89
+Puntarenas;Osa;Piedras Blancas;35;9;1;25
+Puntarenas;Osa;Puerto Cortés;58;22;0;36
+Puntarenas;Osa;Sierpe;13;6;2;5
+Puntarenas;Osa;Sin información de distrito;1;1;0;0
+Puntarenas;Parrita;Parrita;198;128;2;68
+Puntarenas;Parrita;Sin información de distrito;1;1;0;0
+Puntarenas;Puntarenas;Acapulco;38;27;1;10
+Puntarenas;Puntarenas;Arancibia;3;2;0;1
+Puntarenas;Puntarenas;Barranca;1177;652;11;514
+Puntarenas;Puntarenas;Chacarita;555;60;10;485
+Puntarenas;Puntarenas;Chira;12;10;0;2
+Puntarenas;Puntarenas;Chomes;83;41;1;41
+Puntarenas;Puntarenas;Cóbano;56;48;0;8
+Puntarenas;Puntarenas;El Roble;456;164;1;291
+Puntarenas;Puntarenas;Guacimal;13;11;0;2
+Puntarenas;Puntarenas;Isla del Coco;0;0;0;0
+Puntarenas;Puntarenas;Lepanto;123;99;1;23
+Puntarenas;Puntarenas;Manzanillo;20;14;0;6
+Puntarenas;Puntarenas;Monte Verde;29;18;1;10
+Puntarenas;Puntarenas;Paquera;102;93;1;8
+Puntarenas;Puntarenas;Pitahaya;43;28;2;13
+Puntarenas;Puntarenas;Puntarenas;316;77;3;236
+Puntarenas;Puntarenas;Sin información de distrito;7;7;0;0
+Puntarenas;Quepos;Naranjito;64;41;2;21
+Puntarenas;Quepos;Quepos;367;222;6;139
+Puntarenas;Quepos;Savegre;27;21;0;6
+Puntarenas;Quepos;Sin información de distrito;1;1;0;0
+Puntarenas;Sin información de Cantón;-1;0;0;0;0
+Limón;Guácimo;Duacarí;50;27;0;23
+Limón;Guácimo;Guácimo;249;159;3;87
+Limón;Guácimo;Mercedes;36;26;0;10
+Limón;Guácimo;Pocora;120;65;0;55
+Limón;Guácimo;Río Jiménez;88;57;2;29
+Limón;Guácimo;Sin información de distrito;2;2;0;0
+Limón;Limón;Limón;1741;1244;19;478
+Limón;Limón;Matama;107;75;0;32
+Limón;Limón;Río Blanco;176;124;1;51
+Limón;Limón;Valle de La Estrella;337;210;2;125
+Limón;Limón;Sin información de distrito;5;5;0;0
+Limón;Matina;Batán;229;89;4;136
+Limón;Matina;Carrandí;212;93;0;119
+Limón;Matina;Matina;147;52;1;94
+Limón;Matina;Sin información de distrito;0;0;0;0
+Limón;Pococí;Cariari;334;155;3;176
+Limón;Pococí;Colorado;7;3;0;4
+Limón;Pococí;Guápiles;528;190;6;332
+Limón;Pococí;Jiménez;130;34;0;96
+Limón;Pococí;La Colonia;75;28;3;44
+Limón;Pococí;Rita;291;121;1;169
+Limón;Pococí;Roxana;207;145;2;60
+Limón;Pococí;Sin información de distrito;2;1;0;1
+Limón;Siquirres;El Cairo;173;113;3;57
+Limón;Siquirres;Florida;51;45;0;6
+Limón;Siquirres;Germania;39;29;1;9
+Limón;Siquirres;La Alegría;91;71;0;20
+Limón;Siquirres;Pacuarito;77;50;0;27
+Limón;Siquirres;Reventazón;0;0;0;0
+Limón;Siquirres;Siquirres;611;380;6;225
+Limón;Siquirres;Sin información de distrito;0;0;0;0
+Limón;Talamanca;Bratsi;312;38;9;265
+Limón;Talamanca;Cahuita;129;37;1;91
+Limón;Talamanca;Sixaola;228;25;2;201
+Limón;Talamanca;Telire;238;14;8;216
+Limón;Talamanca;Sin información de distrito;1;1;0;0
+Limón;Sin información de Cantón;-1;0;0;0;0
+Otros2;-1;-1;580;306;0;274
+TOTAL;-1;-1;103088;62037;1282;39769
