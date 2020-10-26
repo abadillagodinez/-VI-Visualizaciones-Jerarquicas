@@ -1,0 +1,5204 @@
+[
+    {
+      "Provincia": "San José",
+      "Cantón": "Acosta",
+      "Distrito": "Cangrejal",
+      "Acumulados": 46,
+      "Recuperados": 27,
+      "Fallecidos": 0,
+      "Activos": 19
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Acosta",
+      "Distrito": "Guaitil",
+      "Acumulados": 63,
+      "Recuperados": 52,
+      "Fallecidos": 1,
+      "Activos": 10
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Acosta",
+      "Distrito": "Palmichal",
+      "Acumulados": 127,
+      "Recuperados": 103,
+      "Fallecidos": 0,
+      "Activos": 24
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Acosta",
+      "Distrito": "Sabanillas",
+      "Acumulados": 21,
+      "Recuperados": 15,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Acosta",
+      "Distrito": "San Ignacio",
+      "Acumulados": 302,
+      "Recuperados": 248,
+      "Fallecidos": 1,
+      "Activos": 53
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Acosta",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 3,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Alajuelita",
+      "Distrito": "Alajuelita",
+      "Acumulados": 764,
+      "Recuperados": 557,
+      "Fallecidos": 16,
+      "Activos": 191
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Alajuelita",
+      "Distrito": "Concepción",
+      "Acumulados": 1059,
+      "Recuperados": 744,
+      "Fallecidos": 12,
+      "Activos": 303
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Alajuelita",
+      "Distrito": "San Antonio",
+      "Acumulados": 170,
+      "Recuperados": 112,
+      "Fallecidos": 3,
+      "Activos": 55
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Alajuelita",
+      "Distrito": "San Felipe",
+      "Acumulados": 1874,
+      "Recuperados": 1428,
+      "Fallecidos": 18,
+      "Activos": 428
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Alajuelita",
+      "Distrito": "San Josecito",
+      "Acumulados": 589,
+      "Recuperados": 413,
+      "Fallecidos": 2,
+      "Activos": 174
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Alajuelita",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 8,
+      "Recuperados": 8,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Aserrí",
+      "Distrito": "Aserrí",
+      "Acumulados": 813,
+      "Recuperados": 415,
+      "Fallecidos": 8,
+      "Activos": 390
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Aserrí",
+      "Distrito": "Legua",
+      "Acumulados": 2,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Aserrí",
+      "Distrito": "Monterrey",
+      "Acumulados": 7,
+      "Recuperados": 3,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Aserrí",
+      "Distrito": "Salitrillos",
+      "Acumulados": 200,
+      "Recuperados": 109,
+      "Fallecidos": 4,
+      "Activos": 87
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Aserrí",
+      "Distrito": "San Gabriel",
+      "Acumulados": 79,
+      "Recuperados": 30,
+      "Fallecidos": 1,
+      "Activos": 48
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Aserrí",
+      "Distrito": "Tarbaca",
+      "Acumulados": 42,
+      "Recuperados": 17,
+      "Fallecidos": 0,
+      "Activos": 25
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Aserrí",
+      "Distrito": "Vuelta de Jorco",
+      "Acumulados": 172,
+      "Recuperados": 74,
+      "Fallecidos": 0,
+      "Activos": 98
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Aserrí",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 17,
+      "Recuperados": 17,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Curridabat",
+      "Distrito": "Curridabat",
+      "Acumulados": 973,
+      "Recuperados": 659,
+      "Fallecidos": 12,
+      "Activos": 302
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Curridabat",
+      "Distrito": "Granadilla",
+      "Acumulados": 459,
+      "Recuperados": 336,
+      "Fallecidos": 8,
+      "Activos": 115
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Curridabat",
+      "Distrito": "Sánchez",
+      "Acumulados": 109,
+      "Recuperados": 76,
+      "Fallecidos": 0,
+      "Activos": 33
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Curridabat",
+      "Distrito": "Tirrases",
+      "Acumulados": 853,
+      "Recuperados": 697,
+      "Fallecidos": 15,
+      "Activos": 141
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Curridabat",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 16,
+      "Recuperados": 15,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "Damas",
+      "Acumulados": 379,
+      "Recuperados": 186,
+      "Fallecidos": 8,
+      "Activos": 185
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "Desamparados",
+      "Acumulados": 1186,
+      "Recuperados": 613,
+      "Fallecidos": 31,
+      "Activos": 542
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "Frailes",
+      "Acumulados": 23,
+      "Recuperados": 10,
+      "Fallecidos": 0,
+      "Activos": 13
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "Gravilias",
+      "Acumulados": 323,
+      "Recuperados": 147,
+      "Fallecidos": 5,
+      "Activos": 171
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "Los Guido",
+      "Acumulados": 1006,
+      "Recuperados": 477,
+      "Fallecidos": 14,
+      "Activos": 515
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "Patarra",
+      "Acumulados": 287,
+      "Recuperados": 145,
+      "Fallecidos": 3,
+      "Activos": 139
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "Rosario",
+      "Acumulados": 46,
+      "Recuperados": 25,
+      "Fallecidos": 2,
+      "Activos": 19
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "San Antonio",
+      "Acumulados": 243,
+      "Recuperados": 111,
+      "Fallecidos": 6,
+      "Activos": 126
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "San Cristobal",
+      "Acumulados": 38,
+      "Recuperados": 17,
+      "Fallecidos": 0,
+      "Activos": 21
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "San Juan de Dios",
+      "Acumulados": 611,
+      "Recuperados": 307,
+      "Fallecidos": 9,
+      "Activos": 295
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "San Miguel",
+      "Acumulados": 1386,
+      "Recuperados": 592,
+      "Fallecidos": 12,
+      "Activos": 782
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "San Rafael Abajo",
+      "Acumulados": 1036,
+      "Recuperados": 577,
+      "Fallecidos": 8,
+      "Activos": 451
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "San Rafael Arriba",
+      "Acumulados": 557,
+      "Recuperados": 207,
+      "Fallecidos": 10,
+      "Activos": 340
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Desamparados",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 26,
+      "Recuperados": 24,
+      "Fallecidos": 1,
+      "Activos": 1
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Dota",
+      "Distrito": "Copey",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Dota",
+      "Distrito": "Jardín",
+      "Acumulados": 4,
+      "Recuperados": 4,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Dota",
+      "Distrito": "Santa María",
+      "Acumulados": 12,
+      "Recuperados": 10,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Dota",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Escazú",
+      "Distrito": "Escazú",
+      "Acumulados": 453,
+      "Recuperados": 397,
+      "Fallecidos": 8,
+      "Activos": 48
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Escazú",
+      "Distrito": "San Antonio",
+      "Acumulados": 515,
+      "Recuperados": 461,
+      "Fallecidos": 11,
+      "Activos": 43
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Escazú",
+      "Distrito": "San Rafael",
+      "Acumulados": 630,
+      "Recuperados": 574,
+      "Fallecidos": 4,
+      "Activos": 52
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Escazú",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 15,
+      "Recuperados": 15,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Goicoechea",
+      "Distrito": "Calle Blancos",
+      "Acumulados": 392,
+      "Recuperados": 274,
+      "Fallecidos": 7,
+      "Activos": 111
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Goicoechea",
+      "Distrito": "Guadalupe",
+      "Acumulados": 749,
+      "Recuperados": 469,
+      "Fallecidos": 15,
+      "Activos": 265
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Goicoechea",
+      "Distrito": "Ipis",
+      "Acumulados": 731,
+      "Recuperados": 501,
+      "Fallecidos": 19,
+      "Activos": 211
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Goicoechea",
+      "Distrito": "Mata de Plátano",
+      "Acumulados": 427,
+      "Recuperados": 293,
+      "Fallecidos": 4,
+      "Activos": 130
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Goicoechea",
+      "Distrito": "Purral",
+      "Acumulados": 925,
+      "Recuperados": 683,
+      "Fallecidos": 7,
+      "Activos": 235
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Goicoechea",
+      "Distrito": "Rancho Redondo",
+      "Acumulados": 96,
+      "Recuperados": 59,
+      "Fallecidos": 0,
+      "Activos": 37
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Goicoechea",
+      "Distrito": "San Francisco",
+      "Acumulados": 43,
+      "Recuperados": 36,
+      "Fallecidos": 2,
+      "Activos": 5
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Goicoechea",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 23,
+      "Recuperados": 20,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "León Cortés Castro",
+      "Distrito": "Llano Bonito",
+      "Acumulados": 2,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "León Cortés Castro",
+      "Distrito": "San Andrés",
+      "Acumulados": 4,
+      "Recuperados": 4,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "León Cortés Castro",
+      "Distrito": "San Antonio",
+      "Acumulados": 14,
+      "Recuperados": 14,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "León Cortés Castro",
+      "Distrito": "San Isidro",
+      "Acumulados": 4,
+      "Recuperados": 4,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "León Cortés Castro",
+      "Distrito": "San Pablo",
+      "Acumulados": 24,
+      "Recuperados": 19,
+      "Fallecidos": 0,
+      "Activos": 5
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "León Cortés Castro",
+      "Distrito": "Santa Cruz",
+      "Acumulados": 6,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "León Cortés Castro",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Montes de Oca",
+      "Distrito": "Mercedes",
+      "Acumulados": 44,
+      "Recuperados": 29,
+      "Fallecidos": 0,
+      "Activos": 15
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Montes de Oca",
+      "Distrito": "Sabanilla",
+      "Acumulados": 199,
+      "Recuperados": 158,
+      "Fallecidos": 1,
+      "Activos": 40
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Montes de Oca",
+      "Distrito": "San Pedro",
+      "Acumulados": 513,
+      "Recuperados": 356,
+      "Fallecidos": 8,
+      "Activos": 149
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Montes de Oca",
+      "Distrito": "San Rafael",
+      "Acumulados": 263,
+      "Recuperados": 197,
+      "Fallecidos": 2,
+      "Activos": 64
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Montes de Oca",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 6,
+      "Recuperados": 4,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Mora",
+      "Distrito": "Colón",
+      "Acumulados": 416,
+      "Recuperados": 311,
+      "Fallecidos": 6,
+      "Activos": 99
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Mora",
+      "Distrito": "Guayabo",
+      "Acumulados": 95,
+      "Recuperados": 78,
+      "Fallecidos": 2,
+      "Activos": 15
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Mora",
+      "Distrito": "Jaris",
+      "Acumulados": 5,
+      "Recuperados": 4,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Mora",
+      "Distrito": "Picagres",
+      "Acumulados": 6,
+      "Recuperados": 6,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Mora",
+      "Distrito": "Piedras Negras",
+      "Acumulados": 4,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Mora",
+      "Distrito": "Quitirrisí",
+      "Acumulados": 12,
+      "Recuperados": 12,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Mora",
+      "Distrito": "Tabarcia",
+      "Acumulados": 96,
+      "Recuperados": 83,
+      "Fallecidos": 1,
+      "Activos": 12
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Mora",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 4,
+      "Recuperados": 4,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Moravia",
+      "Distrito": "La Trinidad",
+      "Acumulados": 456,
+      "Recuperados": 357,
+      "Fallecidos": 8,
+      "Activos": 91
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Moravia",
+      "Distrito": "San Jerónimo",
+      "Acumulados": 108,
+      "Recuperados": 87,
+      "Fallecidos": 1,
+      "Activos": 20
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Moravia",
+      "Distrito": "San Vicente",
+      "Acumulados": 486,
+      "Recuperados": 389,
+      "Fallecidos": 5,
+      "Activos": 92
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Moravia",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 5,
+      "Recuperados": 5,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Pérez Zeledón",
+      "Distrito": "Barú",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Pérez Zeledón",
+      "Distrito": "Cajón",
+      "Acumulados": 41,
+      "Recuperados": 7,
+      "Fallecidos": 0,
+      "Activos": 34
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Pérez Zeledón",
+      "Distrito": "Daniel Flores",
+      "Acumulados": 164,
+      "Recuperados": 45,
+      "Fallecidos": 2,
+      "Activos": 117
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Pérez Zeledón",
+      "Distrito": "El General",
+      "Acumulados": 3,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Pérez Zeledón",
+      "Distrito": "La Amistad",
+      "Acumulados": 3,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Pérez Zeledón",
+      "Distrito": "Paramo",
+      "Acumulados": 11,
+      "Recuperados": 5,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Pérez Zeledón",
+      "Distrito": "Pejibaye",
+      "Acumulados": 45,
+      "Recuperados": 3,
+      "Fallecidos": 0,
+      "Activos": 42
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Pérez Zeledón",
+      "Distrito": "Platanares",
+      "Acumulados": 20,
+      "Recuperados": 4,
+      "Fallecidos": 0,
+      "Activos": 16
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Pérez Zeledón",
+      "Distrito": "Río Nuevo",
+      "Acumulados": 13,
+      "Recuperados": 5,
+      "Fallecidos": 0,
+      "Activos": 8
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Pérez Zeledón",
+      "Distrito": "Rivas",
+      "Acumulados": 14,
+      "Recuperados": 2,
+      "Fallecidos": 1,
+      "Activos": 11
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Pérez Zeledón",
+      "Distrito": "San Isidro de El General",
+      "Acumulados": 212,
+      "Recuperados": 55,
+      "Fallecidos": 0,
+      "Activos": 157
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Pérez Zeledón",
+      "Distrito": "San Pedro",
+      "Acumulados": 16,
+      "Recuperados": 8,
+      "Fallecidos": 0,
+      "Activos": 8
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Pérez Zeledón",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 2,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Puriscal",
+      "Distrito": "Barbacoas",
+      "Acumulados": 72,
+      "Recuperados": 54,
+      "Fallecidos": 0,
+      "Activos": 18
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Puriscal",
+      "Distrito": "Candelarita",
+      "Acumulados": 19,
+      "Recuperados": 17,
+      "Fallecidos": 1,
+      "Activos": 1
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Puriscal",
+      "Distrito": "Chires",
+      "Acumulados": 14,
+      "Recuperados": 8,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Puriscal",
+      "Distrito": "Desamparaditos",
+      "Acumulados": 10,
+      "Recuperados": 6,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Puriscal",
+      "Distrito": "Grifo Alto",
+      "Acumulados": 12,
+      "Recuperados": 8,
+      "Fallecidos": 1,
+      "Activos": 3
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Puriscal",
+      "Distrito": "Mercedes Sur",
+      "Acumulados": 74,
+      "Recuperados": 58,
+      "Fallecidos": 2,
+      "Activos": 14
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Puriscal",
+      "Distrito": "San Antonio",
+      "Acumulados": 86,
+      "Recuperados": 65,
+      "Fallecidos": 0,
+      "Activos": 21
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Puriscal",
+      "Distrito": "San Rafael",
+      "Acumulados": 44,
+      "Recuperados": 38,
+      "Fallecidos": 1,
+      "Activos": 5
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Puriscal",
+      "Distrito": "Santiago",
+      "Acumulados": 194,
+      "Recuperados": 146,
+      "Fallecidos": 2,
+      "Activos": 46
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Puriscal",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "San José",
+      "Distrito": "Catedral",
+      "Acumulados": 757,
+      "Recuperados": 589,
+      "Fallecidos": 9,
+      "Activos": 159
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "San José",
+      "Distrito": "El Carmen",
+      "Acumulados": 311,
+      "Recuperados": 177,
+      "Fallecidos": 5,
+      "Activos": 129
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "San José",
+      "Distrito": "Hatillo",
+      "Acumulados": 2329,
+      "Recuperados": 1957,
+      "Fallecidos": 44,
+      "Activos": 328
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "San José",
+      "Distrito": "Hospital",
+      "Acumulados": 1571,
+      "Recuperados": 1257,
+      "Fallecidos": 34,
+      "Activos": 280
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "San José",
+      "Distrito": "Mata Redonda",
+      "Acumulados": 290,
+      "Recuperados": 203,
+      "Fallecidos": 6,
+      "Activos": 81
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "San José",
+      "Distrito": "Merced",
+      "Acumulados": 873,
+      "Recuperados": 556,
+      "Fallecidos": 11,
+      "Activos": 306
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "San José",
+      "Distrito": "Pavas",
+      "Acumulados": 5068,
+      "Recuperados": 4036,
+      "Fallecidos": 46,
+      "Activos": 986
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "San José",
+      "Distrito": "San Francisco de Dos Ríos",
+      "Acumulados": 459,
+      "Recuperados": 342,
+      "Fallecidos": 6,
+      "Activos": 111
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "San José",
+      "Distrito": "San Sebastián",
+      "Acumulados": 1972,
+      "Recuperados": 1626,
+      "Fallecidos": 28,
+      "Activos": 318
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "San José",
+      "Distrito": "Uruca",
+      "Acumulados": 2593,
+      "Recuperados": 1926,
+      "Fallecidos": 42,
+      "Activos": 625
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "San José",
+      "Distrito": "Zapote",
+      "Acumulados": 598,
+      "Recuperados": 409,
+      "Fallecidos": 13,
+      "Activos": 176
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "San José",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 78,
+      "Recuperados": 75,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Santa Ana",
+      "Distrito": "Brasil",
+      "Acumulados": 51,
+      "Recuperados": 32,
+      "Fallecidos": 1,
+      "Activos": 18
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Santa Ana",
+      "Distrito": "Piedades",
+      "Acumulados": 219,
+      "Recuperados": 166,
+      "Fallecidos": 3,
+      "Activos": 50
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Santa Ana",
+      "Distrito": "Pozos",
+      "Acumulados": 516,
+      "Recuperados": 395,
+      "Fallecidos": 5,
+      "Activos": 116
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Santa Ana",
+      "Distrito": "Salitral",
+      "Acumulados": 111,
+      "Recuperados": 83,
+      "Fallecidos": 1,
+      "Activos": 27
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Santa Ana",
+      "Distrito": "Santa Ana",
+      "Acumulados": 462,
+      "Recuperados": 320,
+      "Fallecidos": 5,
+      "Activos": 137
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Santa Ana",
+      "Distrito": "Uruca",
+      "Acumulados": 276,
+      "Recuperados": 189,
+      "Fallecidos": 2,
+      "Activos": 85
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Santa Ana",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 45,
+      "Recuperados": 43,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Tarrazú",
+      "Distrito": "San Carlos",
+      "Acumulados": 4,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Tarrazú",
+      "Distrito": "San Lorenzo",
+      "Acumulados": 9,
+      "Recuperados": 3,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Tarrazú",
+      "Distrito": "San Marcos",
+      "Acumulados": 43,
+      "Recuperados": 25,
+      "Fallecidos": 1,
+      "Activos": 17
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Tarrazú",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Tibás",
+      "Distrito": "Anselmo Llorente",
+      "Acumulados": 138,
+      "Recuperados": 54,
+      "Fallecidos": 4,
+      "Activos": 80
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Tibás",
+      "Distrito": "Cinco Esquinas",
+      "Acumulados": 454,
+      "Recuperados": 219,
+      "Fallecidos": 8,
+      "Activos": 227
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Tibás",
+      "Distrito": "Colima",
+      "Acumulados": 379,
+      "Recuperados": 166,
+      "Fallecidos": 4,
+      "Activos": 209
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Tibás",
+      "Distrito": "León XIII",
+      "Acumulados": 837,
+      "Recuperados": 462,
+      "Fallecidos": 11,
+      "Activos": 364
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Tibás",
+      "Distrito": "San Juan",
+      "Acumulados": 514,
+      "Recuperados": 251,
+      "Fallecidos": 16,
+      "Activos": 247
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Tibás",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 13,
+      "Recuperados": 11,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Turrubares",
+      "Distrito": "Carara",
+      "Acumulados": 18,
+      "Recuperados": 10,
+      "Fallecidos": 0,
+      "Activos": 8
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Turrubares",
+      "Distrito": "San Juan de Mata",
+      "Acumulados": 17,
+      "Recuperados": 12,
+      "Fallecidos": 0,
+      "Activos": 5
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Turrubares",
+      "Distrito": "San Luis",
+      "Acumulados": 2,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Turrubares",
+      "Distrito": "San Pablo",
+      "Acumulados": 22,
+      "Recuperados": 13,
+      "Fallecidos": 0,
+      "Activos": 9
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Turrubares",
+      "Distrito": "San Pedro",
+      "Acumulados": 8,
+      "Recuperados": 7,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Turrubares",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Vazquez de Coronado",
+      "Distrito": "Cascajal",
+      "Acumulados": 184,
+      "Recuperados": 132,
+      "Fallecidos": 2,
+      "Activos": 50
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Vazquez de Coronado",
+      "Distrito": "Dulce Nombre de Jesús",
+      "Acumulados": 264,
+      "Recuperados": 191,
+      "Fallecidos": 6,
+      "Activos": 67
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Vazquez de Coronado",
+      "Distrito": "Patalillo",
+      "Acumulados": 462,
+      "Recuperados": 335,
+      "Fallecidos": 6,
+      "Activos": 121
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Vazquez de Coronado",
+      "Distrito": "San Isidro",
+      "Acumulados": 399,
+      "Recuperados": 278,
+      "Fallecidos": 9,
+      "Activos": 112
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Vazquez de Coronado",
+      "Distrito": "San Rafael",
+      "Acumulados": 153,
+      "Recuperados": 88,
+      "Fallecidos": 3,
+      "Activos": 62
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Vazquez de Coronado",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 6,
+      "Recuperados": 5,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "San José",
+      "Cantón": "Sin información de Cantón",
+      "Distrito": "-1",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "Alajuela",
+      "Acumulados": 1588,
+      "Recuperados": 678,
+      "Fallecidos": 40,
+      "Activos": 870
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "Carrizal",
+      "Acumulados": 144,
+      "Recuperados": 54,
+      "Fallecidos": 1,
+      "Activos": 89
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "Desamparados",
+      "Acumulados": 614,
+      "Recuperados": 258,
+      "Fallecidos": 6,
+      "Activos": 350
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "Garita",
+      "Acumulados": 134,
+      "Recuperados": 54,
+      "Fallecidos": 1,
+      "Activos": 79
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "Guácima",
+      "Acumulados": 728,
+      "Recuperados": 306,
+      "Fallecidos": 4,
+      "Activos": 418
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "Río Segundo",
+      "Acumulados": 389,
+      "Recuperados": 193,
+      "Fallecidos": 7,
+      "Activos": 189
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "Sabanilla",
+      "Acumulados": 147,
+      "Recuperados": 40,
+      "Fallecidos": 2,
+      "Activos": 105
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "San Antonio",
+      "Acumulados": 754,
+      "Recuperados": 280,
+      "Fallecidos": 4,
+      "Activos": 470
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "San Isidro",
+      "Acumulados": 363,
+      "Recuperados": 128,
+      "Fallecidos": 2,
+      "Activos": 233
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "San José",
+      "Acumulados": 1022,
+      "Recuperados": 384,
+      "Fallecidos": 8,
+      "Activos": 630
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "San Rafael",
+      "Acumulados": 1454,
+      "Recuperados": 691,
+      "Fallecidos": 16,
+      "Activos": 747
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "Sarapiquí",
+      "Acumulados": 30,
+      "Recuperados": 11,
+      "Fallecidos": 0,
+      "Activos": 19
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "Tambor",
+      "Acumulados": 273,
+      "Recuperados": 115,
+      "Fallecidos": 3,
+      "Activos": 155
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "Turrucares",
+      "Acumulados": 175,
+      "Recuperados": 75,
+      "Fallecidos": 2,
+      "Activos": 98
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Alajuela",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 16,
+      "Recuperados": 12,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Atenas",
+      "Distrito": "Atenas",
+      "Acumulados": 137,
+      "Recuperados": 53,
+      "Fallecidos": 2,
+      "Activos": 82
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Atenas",
+      "Distrito": "Concepción",
+      "Acumulados": 68,
+      "Recuperados": 29,
+      "Fallecidos": 0,
+      "Activos": 39
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Atenas",
+      "Distrito": "Escobal",
+      "Acumulados": 9,
+      "Recuperados": 3,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Atenas",
+      "Distrito": "Jesús",
+      "Acumulados": 46,
+      "Recuperados": 26,
+      "Fallecidos": 0,
+      "Activos": 20
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Atenas",
+      "Distrito": "Mercedes",
+      "Acumulados": 62,
+      "Recuperados": 15,
+      "Fallecidos": 0,
+      "Activos": 47
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Atenas",
+      "Distrito": "San Isidro",
+      "Acumulados": 51,
+      "Recuperados": 14,
+      "Fallecidos": 1,
+      "Activos": 36
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Atenas",
+      "Distrito": "San José",
+      "Acumulados": 17,
+      "Recuperados": 4,
+      "Fallecidos": 0,
+      "Activos": 13
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Atenas",
+      "Distrito": "Santa Eulalia",
+      "Acumulados": 19,
+      "Recuperados": 7,
+      "Fallecidos": 0,
+      "Activos": 12
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Atenas",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Grecia",
+      "Distrito": "Bolivar",
+      "Acumulados": 66,
+      "Recuperados": 20,
+      "Fallecidos": 0,
+      "Activos": 46
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Grecia",
+      "Distrito": "Grecia",
+      "Acumulados": 316,
+      "Recuperados": 98,
+      "Fallecidos": 7,
+      "Activos": 211
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Grecia",
+      "Distrito": "Puente de Piedra",
+      "Acumulados": 214,
+      "Recuperados": 88,
+      "Fallecidos": 2,
+      "Activos": 124
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Grecia",
+      "Distrito": "San Isidro",
+      "Acumulados": 66,
+      "Recuperados": 19,
+      "Fallecidos": 1,
+      "Activos": 46
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Grecia",
+      "Distrito": "San José",
+      "Acumulados": 87,
+      "Recuperados": 29,
+      "Fallecidos": 1,
+      "Activos": 57
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Grecia",
+      "Distrito": "San Roque",
+      "Acumulados": 139,
+      "Recuperados": 44,
+      "Fallecidos": 2,
+      "Activos": 93
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Grecia",
+      "Distrito": "Tacares",
+      "Acumulados": 141,
+      "Recuperados": 51,
+      "Fallecidos": 3,
+      "Activos": 87
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Grecia",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Guatuso",
+      "Distrito": "Buenavista",
+      "Acumulados": 18,
+      "Recuperados": 13,
+      "Fallecidos": 0,
+      "Activos": 5
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Guatuso",
+      "Distrito": "Cote",
+      "Acumulados": 6,
+      "Recuperados": 5,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Guatuso",
+      "Distrito": "Katira",
+      "Acumulados": 33,
+      "Recuperados": 23,
+      "Fallecidos": 1,
+      "Activos": 9
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Guatuso",
+      "Distrito": "San Rafael",
+      "Acumulados": 222,
+      "Recuperados": 153,
+      "Fallecidos": 2,
+      "Activos": 67
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Guatuso",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 3,
+      "Recuperados": 3,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Los Chiles",
+      "Distrito": "Caño Negro",
+      "Acumulados": 4,
+      "Recuperados": 4,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Los Chiles",
+      "Distrito": "El Amparo",
+      "Acumulados": 47,
+      "Recuperados": 31,
+      "Fallecidos": 2,
+      "Activos": 14
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Los Chiles",
+      "Distrito": "Los Chiles",
+      "Acumulados": 328,
+      "Recuperados": 291,
+      "Fallecidos": 6,
+      "Activos": 31
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Los Chiles",
+      "Distrito": "San Jorge",
+      "Acumulados": 16,
+      "Recuperados": 8,
+      "Fallecidos": 0,
+      "Activos": 8
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Los Chiles",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 20,
+      "Recuperados": 20,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Naranjo",
+      "Distrito": "Cirrí Sur",
+      "Acumulados": 90,
+      "Recuperados": 34,
+      "Fallecidos": 1,
+      "Activos": 55
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Naranjo",
+      "Distrito": "El Rosario",
+      "Acumulados": 75,
+      "Recuperados": 33,
+      "Fallecidos": 0,
+      "Activos": 42
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Naranjo",
+      "Distrito": "Naranjo",
+      "Acumulados": 374,
+      "Recuperados": 173,
+      "Fallecidos": 4,
+      "Activos": 197
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Naranjo",
+      "Distrito": "Palmitos",
+      "Acumulados": 52,
+      "Recuperados": 30,
+      "Fallecidos": 0,
+      "Activos": 22
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Naranjo",
+      "Distrito": "San Jerónimo",
+      "Acumulados": 99,
+      "Recuperados": 32,
+      "Fallecidos": 1,
+      "Activos": 66
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Naranjo",
+      "Distrito": "San José",
+      "Acumulados": 31,
+      "Recuperados": 21,
+      "Fallecidos": 0,
+      "Activos": 10
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Naranjo",
+      "Distrito": "San Juan",
+      "Acumulados": 84,
+      "Recuperados": 14,
+      "Fallecidos": 2,
+      "Activos": 68
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Naranjo",
+      "Distrito": "San Miguel",
+      "Acumulados": 72,
+      "Recuperados": 29,
+      "Fallecidos": 0,
+      "Activos": 43
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Naranjo",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 2,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Orotina",
+      "Distrito": "Coyolar",
+      "Acumulados": 65,
+      "Recuperados": 43,
+      "Fallecidos": 0,
+      "Activos": 22
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Orotina",
+      "Distrito": "El Mastate",
+      "Acumulados": 28,
+      "Recuperados": 24,
+      "Fallecidos": 1,
+      "Activos": 3
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Orotina",
+      "Distrito": "Hacienda Vieja",
+      "Acumulados": 29,
+      "Recuperados": 25,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Orotina",
+      "Distrito": "La Ceiba",
+      "Acumulados": 13,
+      "Recuperados": 9,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Orotina",
+      "Distrito": "Orotina",
+      "Acumulados": 165,
+      "Recuperados": 128,
+      "Fallecidos": 4,
+      "Activos": 33
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Orotina",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 3,
+      "Recuperados": 3,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Palmares",
+      "Distrito": "Buenos Aires",
+      "Acumulados": 103,
+      "Recuperados": 39,
+      "Fallecidos": 0,
+      "Activos": 64
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Palmares",
+      "Distrito": "Candelaria",
+      "Acumulados": 24,
+      "Recuperados": 12,
+      "Fallecidos": 0,
+      "Activos": 12
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Palmares",
+      "Distrito": "Esquipulas",
+      "Acumulados": 113,
+      "Recuperados": 39,
+      "Fallecidos": 1,
+      "Activos": 73
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Palmares",
+      "Distrito": "La Granja",
+      "Acumulados": 61,
+      "Recuperados": 30,
+      "Fallecidos": 0,
+      "Activos": 31
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Palmares",
+      "Distrito": "Palmares",
+      "Acumulados": 91,
+      "Recuperados": 34,
+      "Fallecidos": 5,
+      "Activos": 52
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Palmares",
+      "Distrito": "Santiago",
+      "Acumulados": 29,
+      "Recuperados": 15,
+      "Fallecidos": 0,
+      "Activos": 14
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Palmares",
+      "Distrito": "Zaragoza",
+      "Acumulados": 152,
+      "Recuperados": 60,
+      "Fallecidos": 1,
+      "Activos": 91
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Palmares",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Poás",
+      "Distrito": "Carrillos",
+      "Acumulados": 182,
+      "Recuperados": 151,
+      "Fallecidos": 2,
+      "Activos": 29
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Poás",
+      "Distrito": "Sabana Redonda",
+      "Acumulados": 45,
+      "Recuperados": 36,
+      "Fallecidos": 0,
+      "Activos": 9
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Poás",
+      "Distrito": "San Juan",
+      "Acumulados": 84,
+      "Recuperados": 74,
+      "Fallecidos": 0,
+      "Activos": 10
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Poás",
+      "Distrito": "San Pedro",
+      "Acumulados": 163,
+      "Recuperados": 136,
+      "Fallecidos": 1,
+      "Activos": 26
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Poás",
+      "Distrito": "San Rafael",
+      "Acumulados": 64,
+      "Recuperados": 44,
+      "Fallecidos": 2,
+      "Activos": 18
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Poás",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 7,
+      "Recuperados": 7,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Río Cuarto",
+      "Distrito": "Río Cuarto",
+      "Acumulados": 243,
+      "Recuperados": 72,
+      "Fallecidos": 0,
+      "Activos": 171
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Río Cuarto",
+      "Distrito": "Santa Isabel",
+      "Acumulados": 45,
+      "Recuperados": 12,
+      "Fallecidos": 0,
+      "Activos": 33
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Río Cuarto",
+      "Distrito": "Santa Rita",
+      "Acumulados": 88,
+      "Recuperados": 20,
+      "Fallecidos": 1,
+      "Activos": 67
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Río Cuarto",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "Aguas Zarcas",
+      "Acumulados": 416,
+      "Recuperados": 233,
+      "Fallecidos": 3,
+      "Activos": 180
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "Buenavista",
+      "Acumulados": 1,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "Cutris",
+      "Acumulados": 177,
+      "Recuperados": 104,
+      "Fallecidos": 1,
+      "Activos": 72
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "Florencia",
+      "Acumulados": 285,
+      "Recuperados": 93,
+      "Fallecidos": 1,
+      "Activos": 191
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "La Fortuna",
+      "Acumulados": 578,
+      "Recuperados": 263,
+      "Fallecidos": 2,
+      "Activos": 313
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "La Palmera",
+      "Acumulados": 135,
+      "Recuperados": 62,
+      "Fallecidos": 0,
+      "Activos": 73
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "La Tigra",
+      "Acumulados": 105,
+      "Recuperados": 41,
+      "Fallecidos": 1,
+      "Activos": 63
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "Monterrey",
+      "Acumulados": 44,
+      "Recuperados": 13,
+      "Fallecidos": 0,
+      "Activos": 31
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "Pital",
+      "Acumulados": 583,
+      "Recuperados": 400,
+      "Fallecidos": 9,
+      "Activos": 174
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "Pocosol",
+      "Acumulados": 251,
+      "Recuperados": 147,
+      "Fallecidos": 1,
+      "Activos": 103
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "Quesada",
+      "Acumulados": 988,
+      "Recuperados": 481,
+      "Fallecidos": 10,
+      "Activos": 497
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "Venado",
+      "Acumulados": 13,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 12
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "Venecia",
+      "Acumulados": 186,
+      "Recuperados": 85,
+      "Fallecidos": 0,
+      "Activos": 101
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Carlos",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 23,
+      "Recuperados": 23,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Mateo",
+      "Distrito": "Desmonte",
+      "Acumulados": 3,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Mateo",
+      "Distrito": "Jesús María",
+      "Acumulados": 8,
+      "Recuperados": 7,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Mateo",
+      "Distrito": "Labrador",
+      "Acumulados": 8,
+      "Recuperados": 6,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Mateo",
+      "Distrito": "San Mateo",
+      "Acumulados": 19,
+      "Recuperados": 11,
+      "Fallecidos": 1,
+      "Activos": 7
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Mateo",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "Alfaro",
+      "Acumulados": 64,
+      "Recuperados": 31,
+      "Fallecidos": 1,
+      "Activos": 32
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "Ángeles",
+      "Acumulados": 58,
+      "Recuperados": 16,
+      "Fallecidos": 1,
+      "Activos": 41
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "Concepción",
+      "Acumulados": 27,
+      "Recuperados": 6,
+      "Fallecidos": 0,
+      "Activos": 21
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "Peñas Blancas",
+      "Acumulados": 180,
+      "Recuperados": 114,
+      "Fallecidos": 2,
+      "Activos": 64
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "Piedades Norte",
+      "Acumulados": 85,
+      "Recuperados": 37,
+      "Fallecidos": 1,
+      "Activos": 47
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "Piedades Sur",
+      "Acumulados": 35,
+      "Recuperados": 8,
+      "Fallecidos": 1,
+      "Activos": 26
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "San Isidro",
+      "Acumulados": 62,
+      "Recuperados": 37,
+      "Fallecidos": 0,
+      "Activos": 25
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "San Juan",
+      "Acumulados": 170,
+      "Recuperados": 76,
+      "Fallecidos": 1,
+      "Activos": 93
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "San Lorenzo",
+      "Acumulados": 4,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "San Rafael",
+      "Acumulados": 82,
+      "Recuperados": 34,
+      "Fallecidos": 0,
+      "Activos": 48
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "San Ramón",
+      "Acumulados": 217,
+      "Recuperados": 86,
+      "Fallecidos": 1,
+      "Activos": 130
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "Santiago",
+      "Acumulados": 71,
+      "Recuperados": 27,
+      "Fallecidos": 1,
+      "Activos": 43
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "Volio",
+      "Acumulados": 22,
+      "Recuperados": 8,
+      "Fallecidos": 0,
+      "Activos": 14
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "Zapotal",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "San Ramón",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 8,
+      "Recuperados": 8,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Sarchí",
+      "Distrito": "Rodríguez",
+      "Acumulados": 15,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 13
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Sarchí",
+      "Distrito": "San Pedro",
+      "Acumulados": 21,
+      "Recuperados": 7,
+      "Fallecidos": 0,
+      "Activos": 14
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Sarchí",
+      "Distrito": "Sarchí Norte",
+      "Acumulados": 107,
+      "Recuperados": 30,
+      "Fallecidos": 0,
+      "Activos": 77
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Sarchí",
+      "Distrito": "Sarchí Sur",
+      "Acumulados": 69,
+      "Recuperados": 16,
+      "Fallecidos": 1,
+      "Activos": 52
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Sarchí",
+      "Distrito": "Toro Amarillo",
+      "Acumulados": 5,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Sarchí",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Upala",
+      "Distrito": "Aguas Claras",
+      "Acumulados": 18,
+      "Recuperados": 10,
+      "Fallecidos": 0,
+      "Activos": 8
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Upala",
+      "Distrito": "Bijagua",
+      "Acumulados": 20,
+      "Recuperados": 16,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Upala",
+      "Distrito": "Canalete",
+      "Acumulados": 17,
+      "Recuperados": 12,
+      "Fallecidos": 0,
+      "Activos": 5
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Upala",
+      "Distrito": "Delicias",
+      "Acumulados": 59,
+      "Recuperados": 51,
+      "Fallecidos": 0,
+      "Activos": 8
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Upala",
+      "Distrito": "Dos Ríos",
+      "Acumulados": 3,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Upala",
+      "Distrito": "San José O Pizote",
+      "Acumulados": 78,
+      "Recuperados": 54,
+      "Fallecidos": 1,
+      "Activos": 23
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Upala",
+      "Distrito": "Upala",
+      "Acumulados": 146,
+      "Recuperados": 113,
+      "Fallecidos": 4,
+      "Activos": 29
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Upala",
+      "Distrito": "Yolillal",
+      "Acumulados": 14,
+      "Recuperados": 9,
+      "Fallecidos": 0,
+      "Activos": 5
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Upala",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Zarcero",
+      "Distrito": "Brisas",
+      "Acumulados": 30,
+      "Recuperados": 14,
+      "Fallecidos": 0,
+      "Activos": 16
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Zarcero",
+      "Distrito": "Guadalupe",
+      "Acumulados": 6,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 5
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Zarcero",
+      "Distrito": "Laguna",
+      "Acumulados": 43,
+      "Recuperados": 9,
+      "Fallecidos": 0,
+      "Activos": 34
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Zarcero",
+      "Distrito": "Palmira",
+      "Acumulados": 18,
+      "Recuperados": 4,
+      "Fallecidos": 0,
+      "Activos": 14
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Zarcero",
+      "Distrito": "Tapesco",
+      "Acumulados": 45,
+      "Recuperados": 7,
+      "Fallecidos": 0,
+      "Activos": 38
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Zarcero",
+      "Distrito": "Zapote",
+      "Acumulados": 6,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Zarcero",
+      "Distrito": "Zarcero",
+      "Acumulados": 109,
+      "Recuperados": 12,
+      "Fallecidos": 0,
+      "Activos": 97
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Zarcero",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Alajuela",
+      "Cantón": "Sin información de Cantón",
+      "Distrito": "-1",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Alvarado",
+      "Distrito": "Capellades",
+      "Acumulados": 21,
+      "Recuperados": 17,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Alvarado",
+      "Distrito": "Cervantes",
+      "Acumulados": 47,
+      "Recuperados": 25,
+      "Fallecidos": 1,
+      "Activos": 21
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Alvarado",
+      "Distrito": "Pacayas",
+      "Acumulados": 46,
+      "Recuperados": 27,
+      "Fallecidos": 1,
+      "Activos": 18
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Alvarado",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Cartago",
+      "Distrito": "Aguacaliente o San Francisco",
+      "Acumulados": 389,
+      "Recuperados": 196,
+      "Fallecidos": 1,
+      "Activos": 192
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Cartago",
+      "Distrito": "Carmen",
+      "Acumulados": 273,
+      "Recuperados": 153,
+      "Fallecidos": 2,
+      "Activos": 118
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Cartago",
+      "Distrito": "Corralillo",
+      "Acumulados": 108,
+      "Recuperados": 23,
+      "Fallecidos": 0,
+      "Activos": 85
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Cartago",
+      "Distrito": "Dulce Nombre",
+      "Acumulados": 112,
+      "Recuperados": 66,
+      "Fallecidos": 2,
+      "Activos": 44
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Cartago",
+      "Distrito": "Guadalupe o Arenilla",
+      "Acumulados": 172,
+      "Recuperados": 71,
+      "Fallecidos": 2,
+      "Activos": 99
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Cartago",
+      "Distrito": "Llano Grande",
+      "Acumulados": 105,
+      "Recuperados": 37,
+      "Fallecidos": 1,
+      "Activos": 67
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Cartago",
+      "Distrito": "Occidental",
+      "Acumulados": 127,
+      "Recuperados": 55,
+      "Fallecidos": 1,
+      "Activos": 71
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Cartago",
+      "Distrito": "Oriental",
+      "Acumulados": 199,
+      "Recuperados": 95,
+      "Fallecidos": 4,
+      "Activos": 100
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Cartago",
+      "Distrito": "Quebradilla",
+      "Acumulados": 113,
+      "Recuperados": 33,
+      "Fallecidos": 0,
+      "Activos": 80
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Cartago",
+      "Distrito": "San Nicolás",
+      "Acumulados": 353,
+      "Recuperados": 209,
+      "Fallecidos": 3,
+      "Activos": 141
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Cartago",
+      "Distrito": "Tierra Blanca",
+      "Acumulados": 93,
+      "Recuperados": 34,
+      "Fallecidos": 2,
+      "Activos": 57
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Cartago",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 13,
+      "Recuperados": 13,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "El Guarco",
+      "Distrito": "El Tejar",
+      "Acumulados": 375,
+      "Recuperados": 142,
+      "Fallecidos": 2,
+      "Activos": 231
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "El Guarco",
+      "Distrito": "Patio de Agua",
+      "Acumulados": 1,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "El Guarco",
+      "Distrito": "San Isidro",
+      "Acumulados": 120,
+      "Recuperados": 39,
+      "Fallecidos": 3,
+      "Activos": 78
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "El Guarco",
+      "Distrito": "Tobosi",
+      "Acumulados": 99,
+      "Recuperados": 34,
+      "Fallecidos": 0,
+      "Activos": 65
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "El Guarco",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 2,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Jiménez",
+      "Distrito": "Juan Viñas",
+      "Acumulados": 39,
+      "Recuperados": 30,
+      "Fallecidos": 0,
+      "Activos": 9
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Jiménez",
+      "Distrito": "Pejibaye",
+      "Acumulados": 39,
+      "Recuperados": 26,
+      "Fallecidos": 1,
+      "Activos": 12
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Jiménez",
+      "Distrito": "Tucurrique",
+      "Acumulados": 30,
+      "Recuperados": 28,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Jiménez",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "La Unión",
+      "Distrito": "Concepción",
+      "Acumulados": 403,
+      "Recuperados": 244,
+      "Fallecidos": 3,
+      "Activos": 156
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "La Unión",
+      "Distrito": "Dulce Nombre",
+      "Acumulados": 315,
+      "Recuperados": 148,
+      "Fallecidos": 8,
+      "Activos": 159
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "La Unión",
+      "Distrito": "Río Azul",
+      "Acumulados": 370,
+      "Recuperados": 194,
+      "Fallecidos": 4,
+      "Activos": 172
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "La Unión",
+      "Distrito": "San Diego",
+      "Acumulados": 520,
+      "Recuperados": 290,
+      "Fallecidos": 6,
+      "Activos": 224
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "La Unión",
+      "Distrito": "San Juan",
+      "Acumulados": 198,
+      "Recuperados": 93,
+      "Fallecidos": 3,
+      "Activos": 102
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "La Unión",
+      "Distrito": "San Rafael",
+      "Acumulados": 325,
+      "Recuperados": 157,
+      "Fallecidos": 2,
+      "Activos": 166
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "La Unión",
+      "Distrito": "San Ramón",
+      "Acumulados": 71,
+      "Recuperados": 44,
+      "Fallecidos": 0,
+      "Activos": 27
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "La Unión",
+      "Distrito": "Tres Ríos",
+      "Acumulados": 371,
+      "Recuperados": 200,
+      "Fallecidos": 7,
+      "Activos": 164
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "La Unión",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 4,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Oreamuno",
+      "Distrito": "Cipreses",
+      "Acumulados": 60,
+      "Recuperados": 36,
+      "Fallecidos": 0,
+      "Activos": 24
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Oreamuno",
+      "Distrito": "Cot",
+      "Acumulados": 260,
+      "Recuperados": 164,
+      "Fallecidos": 1,
+      "Activos": 95
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Oreamuno",
+      "Distrito": "Potrero Cerrado",
+      "Acumulados": 42,
+      "Recuperados": 16,
+      "Fallecidos": 1,
+      "Activos": 25
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Oreamuno",
+      "Distrito": "San Rafael",
+      "Acumulados": 427,
+      "Recuperados": 261,
+      "Fallecidos": 4,
+      "Activos": 162
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Oreamuno",
+      "Distrito": "Santa Rosa",
+      "Acumulados": 61,
+      "Recuperados": 35,
+      "Fallecidos": 0,
+      "Activos": 26
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Oreamuno",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 2,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Paraíso",
+      "Distrito": "Cachí",
+      "Acumulados": 46,
+      "Recuperados": 34,
+      "Fallecidos": 1,
+      "Activos": 11
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Paraíso",
+      "Distrito": "Llanos de Santa Lucía",
+      "Acumulados": 154,
+      "Recuperados": 130,
+      "Fallecidos": 2,
+      "Activos": 22
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Paraíso",
+      "Distrito": "Orosi",
+      "Acumulados": 52,
+      "Recuperados": 36,
+      "Fallecidos": 2,
+      "Activos": 14
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Paraíso",
+      "Distrito": "Paraíso",
+      "Acumulados": 175,
+      "Recuperados": 132,
+      "Fallecidos": 1,
+      "Activos": 42
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Paraíso",
+      "Distrito": "Santiago",
+      "Acumulados": 35,
+      "Recuperados": 29,
+      "Fallecidos": 2,
+      "Activos": 4
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Paraíso",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Turrialba",
+      "Distrito": "Chirripó",
+      "Acumulados": 6,
+      "Recuperados": 6,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Turrialba",
+      "Distrito": "La Isabel",
+      "Acumulados": 31,
+      "Recuperados": 24,
+      "Fallecidos": 0,
+      "Activos": 7
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Turrialba",
+      "Distrito": "La Suiza",
+      "Acumulados": 43,
+      "Recuperados": 37,
+      "Fallecidos": 1,
+      "Activos": 5
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Turrialba",
+      "Distrito": "Pavones",
+      "Acumulados": 15,
+      "Recuperados": 13,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Turrialba",
+      "Distrito": "Peralta",
+      "Acumulados": 2,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Turrialba",
+      "Distrito": "Santa Cruz",
+      "Acumulados": 11,
+      "Recuperados": 10,
+      "Fallecidos": 1,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Turrialba",
+      "Distrito": "Santa Rosa",
+      "Acumulados": 20,
+      "Recuperados": 14,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Turrialba",
+      "Distrito": "Santa Teresita",
+      "Acumulados": 21,
+      "Recuperados": 18,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Turrialba",
+      "Distrito": "Tayutic",
+      "Acumulados": 6,
+      "Recuperados": 5,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Turrialba",
+      "Distrito": "Tres Equis",
+      "Acumulados": 3,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Turrialba",
+      "Distrito": "Tuis",
+      "Acumulados": 9,
+      "Recuperados": 7,
+      "Fallecidos": 1,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Turrialba",
+      "Distrito": "Turrialba",
+      "Acumulados": 136,
+      "Recuperados": 105,
+      "Fallecidos": 1,
+      "Activos": 30
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Turrialba",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 2,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Cartago",
+      "Cantón": "Sin información de Cantón",
+      "Distrito": "-1",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Barva",
+      "Distrito": "Barva",
+      "Acumulados": 167,
+      "Recuperados": 120,
+      "Fallecidos": 3,
+      "Activos": 44
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Barva",
+      "Distrito": "San José de la Montaña",
+      "Acumulados": 105,
+      "Recuperados": 68,
+      "Fallecidos": 0,
+      "Activos": 37
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Barva",
+      "Distrito": "San Pablo",
+      "Acumulados": 166,
+      "Recuperados": 121,
+      "Fallecidos": 1,
+      "Activos": 44
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Barva",
+      "Distrito": "San Pedro",
+      "Acumulados": 256,
+      "Recuperados": 206,
+      "Fallecidos": 1,
+      "Activos": 49
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Barva",
+      "Distrito": "San Roque",
+      "Acumulados": 103,
+      "Recuperados": 79,
+      "Fallecidos": 1,
+      "Activos": 23
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Barva",
+      "Distrito": "Santa Lucía",
+      "Acumulados": 149,
+      "Recuperados": 113,
+      "Fallecidos": 4,
+      "Activos": 32
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Barva",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 5,
+      "Recuperados": 5,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Belén",
+      "Distrito": "La Asunción",
+      "Acumulados": 98,
+      "Recuperados": 69,
+      "Fallecidos": 0,
+      "Activos": 29
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Belén",
+      "Distrito": "La Ribera",
+      "Acumulados": 248,
+      "Recuperados": 179,
+      "Fallecidos": 1,
+      "Activos": 68
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Belén",
+      "Distrito": "San Antonio",
+      "Acumulados": 261,
+      "Recuperados": 186,
+      "Fallecidos": 3,
+      "Activos": 72
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Belén",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 2,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Flores",
+      "Distrito": "Barrantes",
+      "Acumulados": 114,
+      "Recuperados": 76,
+      "Fallecidos": 1,
+      "Activos": 37
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Flores",
+      "Distrito": "Llorente",
+      "Acumulados": 234,
+      "Recuperados": 160,
+      "Fallecidos": 0,
+      "Activos": 74
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Flores",
+      "Distrito": "San Joaquín",
+      "Acumulados": 210,
+      "Recuperados": 152,
+      "Fallecidos": 2,
+      "Activos": 56
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Flores",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Heredia",
+      "Distrito": "Heredia",
+      "Acumulados": 627,
+      "Recuperados": 357,
+      "Fallecidos": 12,
+      "Activos": 258
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Heredia",
+      "Distrito": "Mercedes",
+      "Acumulados": 610,
+      "Recuperados": 374,
+      "Fallecidos": 9,
+      "Activos": 227
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Heredia",
+      "Distrito": "San Francisco",
+      "Acumulados": 2202,
+      "Recuperados": 1345,
+      "Fallecidos": 30,
+      "Activos": 827
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Heredia",
+      "Distrito": "Ulloa",
+      "Acumulados": 785,
+      "Recuperados": 400,
+      "Fallecidos": 15,
+      "Activos": 370
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Heredia",
+      "Distrito": "Varablanca",
+      "Acumulados": 2,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Heredia",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 9,
+      "Recuperados": 7,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Isidro",
+      "Distrito": "Concepción",
+      "Acumulados": 72,
+      "Recuperados": 39,
+      "Fallecidos": 2,
+      "Activos": 31
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Isidro",
+      "Distrito": "San Francisco",
+      "Acumulados": 118,
+      "Recuperados": 74,
+      "Fallecidos": 1,
+      "Activos": 43
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Isidro",
+      "Distrito": "San Isidro",
+      "Acumulados": 247,
+      "Recuperados": 178,
+      "Fallecidos": 5,
+      "Activos": 64
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Isidro",
+      "Distrito": "San José",
+      "Acumulados": 167,
+      "Recuperados": 75,
+      "Fallecidos": 2,
+      "Activos": 90
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Isidro",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Pablo",
+      "Distrito": "Rincón de Sabanilla",
+      "Acumulados": 154,
+      "Recuperados": 105,
+      "Fallecidos": 1,
+      "Activos": 48
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Pablo",
+      "Distrito": "San Pablo",
+      "Acumulados": 569,
+      "Recuperados": 345,
+      "Fallecidos": 11,
+      "Activos": 213
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Pablo",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Rafael",
+      "Distrito": "Ángeles",
+      "Acumulados": 202,
+      "Recuperados": 148,
+      "Fallecidos": 1,
+      "Activos": 53
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Rafael",
+      "Distrito": "Concepción",
+      "Acumulados": 99,
+      "Recuperados": 66,
+      "Fallecidos": 0,
+      "Activos": 33
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Rafael",
+      "Distrito": "San Josecito",
+      "Acumulados": 357,
+      "Recuperados": 270,
+      "Fallecidos": 1,
+      "Activos": 86
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Rafael",
+      "Distrito": "San Rafael",
+      "Acumulados": 322,
+      "Recuperados": 228,
+      "Fallecidos": 8,
+      "Activos": 86
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Rafael",
+      "Distrito": "Santiago",
+      "Acumulados": 186,
+      "Recuperados": 135,
+      "Fallecidos": 3,
+      "Activos": 48
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "San Rafael",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 10,
+      "Recuperados": 8,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santa Bárbara",
+      "Distrito": "Jesús",
+      "Acumulados": 163,
+      "Recuperados": 101,
+      "Fallecidos": 0,
+      "Activos": 62
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santa Bárbara",
+      "Distrito": "Purabá",
+      "Acumulados": 68,
+      "Recuperados": 24,
+      "Fallecidos": 0,
+      "Activos": 44
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santa Bárbara",
+      "Distrito": "San Juan",
+      "Acumulados": 180,
+      "Recuperados": 115,
+      "Fallecidos": 1,
+      "Activos": 64
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santa Bárbara",
+      "Distrito": "San Pedro",
+      "Acumulados": 81,
+      "Recuperados": 45,
+      "Fallecidos": 0,
+      "Activos": 36
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santa Bárbara",
+      "Distrito": "Santa Bárbara",
+      "Acumulados": 228,
+      "Recuperados": 131,
+      "Fallecidos": 1,
+      "Activos": 96
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santa Bárbara",
+      "Distrito": "Santo Domingo",
+      "Acumulados": 50,
+      "Recuperados": 18,
+      "Fallecidos": 0,
+      "Activos": 32
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santa Bárbara",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santo Domingo",
+      "Distrito": "Pará",
+      "Acumulados": 157,
+      "Recuperados": 77,
+      "Fallecidos": 0,
+      "Activos": 80
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santo Domingo",
+      "Distrito": "Paracito",
+      "Acumulados": 55,
+      "Recuperados": 32,
+      "Fallecidos": 0,
+      "Activos": 23
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santo Domingo",
+      "Distrito": "San Miguel",
+      "Acumulados": 133,
+      "Recuperados": 69,
+      "Fallecidos": 3,
+      "Activos": 61
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santo Domingo",
+      "Distrito": "San Vicente",
+      "Acumulados": 200,
+      "Recuperados": 95,
+      "Fallecidos": 2,
+      "Activos": 103
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santo Domingo",
+      "Distrito": "Santa Rosa",
+      "Acumulados": 287,
+      "Recuperados": 165,
+      "Fallecidos": 2,
+      "Activos": 120
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santo Domingo",
+      "Distrito": "Santo Domingo",
+      "Acumulados": 193,
+      "Recuperados": 114,
+      "Fallecidos": 4,
+      "Activos": 75
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santo Domingo",
+      "Distrito": "Santo Tomás",
+      "Acumulados": 109,
+      "Recuperados": 60,
+      "Fallecidos": 1,
+      "Activos": 48
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santo Domingo",
+      "Distrito": "Tures",
+      "Acumulados": 137,
+      "Recuperados": 64,
+      "Fallecidos": 0,
+      "Activos": 73
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Santo Domingo",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Sarapiquí",
+      "Distrito": "Cureña",
+      "Acumulados": 4,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Sarapiquí",
+      "Distrito": "La Virgen",
+      "Acumulados": 134,
+      "Recuperados": 91,
+      "Fallecidos": 2,
+      "Activos": 41
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Sarapiquí",
+      "Distrito": "Las Horquetas",
+      "Acumulados": 331,
+      "Recuperados": 181,
+      "Fallecidos": 1,
+      "Activos": 149
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Sarapiquí",
+      "Distrito": "Llanuras del Gaspar",
+      "Acumulados": 3,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Sarapiquí",
+      "Distrito": "Puerto Viejo",
+      "Acumulados": 244,
+      "Recuperados": 126,
+      "Fallecidos": 0,
+      "Activos": 118
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Sarapiquí",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 2,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Heredia",
+      "Cantón": "Sin información de Cantón",
+      "Distrito": "",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Abangares",
+      "Distrito": "Colorado",
+      "Acumulados": 30,
+      "Recuperados": 21,
+      "Fallecidos": 0,
+      "Activos": 9
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Abangares",
+      "Distrito": "Las Juntas",
+      "Acumulados": 118,
+      "Recuperados": 88,
+      "Fallecidos": 0,
+      "Activos": 30
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Abangares",
+      "Distrito": "San Juan",
+      "Acumulados": 16,
+      "Recuperados": 10,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Abangares",
+      "Distrito": "Sierra",
+      "Acumulados": 25,
+      "Recuperados": 21,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Abangares",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Bagaces",
+      "Distrito": "Bagaces",
+      "Acumulados": 109,
+      "Recuperados": 70,
+      "Fallecidos": 1,
+      "Activos": 38
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Bagaces",
+      "Distrito": "La Fortuna",
+      "Acumulados": 17,
+      "Recuperados": 16,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Bagaces",
+      "Distrito": "Mogote",
+      "Acumulados": 20,
+      "Recuperados": 11,
+      "Fallecidos": 0,
+      "Activos": 9
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Bagaces",
+      "Distrito": "Río Naranjo",
+      "Acumulados": 9,
+      "Recuperados": 9,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Bagaces",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 2,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Cañas",
+      "Distrito": "Bebedero",
+      "Acumulados": 14,
+      "Recuperados": 11,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Cañas",
+      "Distrito": "Cañas",
+      "Acumulados": 326,
+      "Recuperados": 241,
+      "Fallecidos": 2,
+      "Activos": 83
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Cañas",
+      "Distrito": "Palmira",
+      "Acumulados": 8,
+      "Recuperados": 6,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Cañas",
+      "Distrito": "Porozal",
+      "Acumulados": 1,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Cañas",
+      "Distrito": "San Miguel",
+      "Acumulados": 20,
+      "Recuperados": 17,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Cañas",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 2,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Carrillo",
+      "Distrito": "Belén",
+      "Acumulados": 50,
+      "Recuperados": 29,
+      "Fallecidos": 1,
+      "Activos": 20
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Carrillo",
+      "Distrito": "Filadelfia",
+      "Acumulados": 58,
+      "Recuperados": 39,
+      "Fallecidos": 1,
+      "Activos": 18
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Carrillo",
+      "Distrito": "Palmira",
+      "Acumulados": 38,
+      "Recuperados": 31,
+      "Fallecidos": 0,
+      "Activos": 7
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Carrillo",
+      "Distrito": "Sardinal",
+      "Acumulados": 70,
+      "Recuperados": 46,
+      "Fallecidos": 1,
+      "Activos": 23
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Carrillo",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 5,
+      "Recuperados": 5,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Hojancha",
+      "Distrito": "Hojancha",
+      "Acumulados": 80,
+      "Recuperados": 67,
+      "Fallecidos": 1,
+      "Activos": 12
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Hojancha",
+      "Distrito": "Huacas",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Hojancha",
+      "Distrito": "Matambú",
+      "Acumulados": 11,
+      "Recuperados": 11,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Hojancha",
+      "Distrito": "Monte Romo",
+      "Acumulados": 2,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Hojancha",
+      "Distrito": "Puerto Carrillo",
+      "Acumulados": 4,
+      "Recuperados": 3,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Hojancha",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "La Cruz",
+      "Distrito": "La Cruz",
+      "Acumulados": 250,
+      "Recuperados": 180,
+      "Fallecidos": 1,
+      "Activos": 69
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "La Cruz",
+      "Distrito": "La Garita",
+      "Acumulados": 21,
+      "Recuperados": 16,
+      "Fallecidos": 0,
+      "Activos": 5
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "La Cruz",
+      "Distrito": "Santa Cecilia",
+      "Acumulados": 38,
+      "Recuperados": 32,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "La Cruz",
+      "Distrito": "Santa Elena",
+      "Acumulados": 7,
+      "Recuperados": 4,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "La Cruz",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Liberia",
+      "Distrito": "Cañas Dulces",
+      "Acumulados": 29,
+      "Recuperados": 3,
+      "Fallecidos": 0,
+      "Activos": 26
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Liberia",
+      "Distrito": "Curubandé",
+      "Acumulados": 13,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 13
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Liberia",
+      "Distrito": "Liberia",
+      "Acumulados": 797,
+      "Recuperados": 191,
+      "Fallecidos": 3,
+      "Activos": 603
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Liberia",
+      "Distrito": "Mayorga",
+      "Acumulados": 11,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 10
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Liberia",
+      "Distrito": "Nacascolo",
+      "Acumulados": 16,
+      "Recuperados": 4,
+      "Fallecidos": 0,
+      "Activos": 12
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Liberia",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nandayure",
+      "Distrito": "Bejuco",
+      "Acumulados": 13,
+      "Recuperados": 12,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nandayure",
+      "Distrito": "Carmona",
+      "Acumulados": 19,
+      "Recuperados": 12,
+      "Fallecidos": 1,
+      "Activos": 6
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nandayure",
+      "Distrito": "Porvenir",
+      "Acumulados": 5,
+      "Recuperados": 3,
+      "Fallecidos": 2,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nandayure",
+      "Distrito": "San Pablo",
+      "Acumulados": 13,
+      "Recuperados": 10,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nandayure",
+      "Distrito": "Santa Rita",
+      "Acumulados": 10,
+      "Recuperados": 9,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nandayure",
+      "Distrito": "Zapotal",
+      "Acumulados": 7,
+      "Recuperados": 4,
+      "Fallecidos": 1,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nandayure",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nicoya",
+      "Distrito": "Belén de Nosarita",
+      "Acumulados": 16,
+      "Recuperados": 6,
+      "Fallecidos": 0,
+      "Activos": 10
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nicoya",
+      "Distrito": "Mansión",
+      "Acumulados": 40,
+      "Recuperados": 17,
+      "Fallecidos": 2,
+      "Activos": 21
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nicoya",
+      "Distrito": "Nicoya",
+      "Acumulados": 429,
+      "Recuperados": 295,
+      "Fallecidos": 6,
+      "Activos": 128
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nicoya",
+      "Distrito": "Nosara",
+      "Acumulados": 97,
+      "Recuperados": 54,
+      "Fallecidos": 2,
+      "Activos": 41
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nicoya",
+      "Distrito": "Quebrada Honda",
+      "Acumulados": 35,
+      "Recuperados": 9,
+      "Fallecidos": 0,
+      "Activos": 26
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nicoya",
+      "Distrito": "Sámara",
+      "Acumulados": 30,
+      "Recuperados": 19,
+      "Fallecidos": 0,
+      "Activos": 11
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nicoya",
+      "Distrito": "San Antonio",
+      "Acumulados": 70,
+      "Recuperados": 34,
+      "Fallecidos": 3,
+      "Activos": 33
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Nicoya",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 2,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Santa Cruz",
+      "Distrito": "Bolsón",
+      "Acumulados": 8,
+      "Recuperados": 6,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Santa Cruz",
+      "Distrito": "Cabo Velas",
+      "Acumulados": 30,
+      "Recuperados": 15,
+      "Fallecidos": 1,
+      "Activos": 14
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Santa Cruz",
+      "Distrito": "Cartagena",
+      "Acumulados": 48,
+      "Recuperados": 16,
+      "Fallecidos": 0,
+      "Activos": 32
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Santa Cruz",
+      "Distrito": "Cuajiniquil",
+      "Acumulados": 22,
+      "Recuperados": 18,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Santa Cruz",
+      "Distrito": "Diriá",
+      "Acumulados": 31,
+      "Recuperados": 13,
+      "Fallecidos": 0,
+      "Activos": 18
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Santa Cruz",
+      "Distrito": "Santa Cruz",
+      "Acumulados": 272,
+      "Recuperados": 124,
+      "Fallecidos": 1,
+      "Activos": 147
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Santa Cruz",
+      "Distrito": "Tamarindo",
+      "Acumulados": 36,
+      "Recuperados": 21,
+      "Fallecidos": 0,
+      "Activos": 15
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Santa Cruz",
+      "Distrito": "Tempate",
+      "Acumulados": 153,
+      "Recuperados": 15,
+      "Fallecidos": 0,
+      "Activos": 138
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Santa Cruz",
+      "Distrito": "Veintisiete de Abril",
+      "Acumulados": 35,
+      "Recuperados": 26,
+      "Fallecidos": 1,
+      "Activos": 8
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Santa Cruz",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 6,
+      "Recuperados": 6,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Tilarán",
+      "Distrito": "Arenal",
+      "Acumulados": 18,
+      "Recuperados": 16,
+      "Fallecidos": 2,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Tilarán",
+      "Distrito": "Líbano",
+      "Acumulados": 4,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Tilarán",
+      "Distrito": "Quebrada Grande",
+      "Acumulados": 21,
+      "Recuperados": 11,
+      "Fallecidos": 0,
+      "Activos": 10
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Tilarán",
+      "Distrito": "Santa Rosa",
+      "Acumulados": 15,
+      "Recuperados": 5,
+      "Fallecidos": 0,
+      "Activos": 10
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Tilarán",
+      "Distrito": "Tierras Morenas",
+      "Acumulados": 6,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Tilarán",
+      "Distrito": "Tilarán",
+      "Acumulados": 81,
+      "Recuperados": 51,
+      "Fallecidos": 1,
+      "Activos": 29
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Tilarán",
+      "Distrito": "Tronadora",
+      "Acumulados": 11,
+      "Recuperados": 8,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Tilarán",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Guanacaste",
+      "Cantón": "Sin información de Cantón",
+      "Distrito": "-1",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Buenos Aires",
+      "Distrito": "Biolley",
+      "Acumulados": 4,
+      "Recuperados": 2,
+      "Fallecidos": 1,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Buenos Aires",
+      "Distrito": "Boruca",
+      "Acumulados": 14,
+      "Recuperados": 3,
+      "Fallecidos": 0,
+      "Activos": 11
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Buenos Aires",
+      "Distrito": "Brunka",
+      "Acumulados": 15,
+      "Recuperados": 2,
+      "Fallecidos": 1,
+      "Activos": 12
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Buenos Aires",
+      "Distrito": "Buenos Aires",
+      "Acumulados": 195,
+      "Recuperados": 22,
+      "Fallecidos": 4,
+      "Activos": 169
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Buenos Aires",
+      "Distrito": "Chánguena",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Buenos Aires",
+      "Distrito": "Colinas",
+      "Acumulados": 2,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Buenos Aires",
+      "Distrito": "Pilas",
+      "Acumulados": 1,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Buenos Aires",
+      "Distrito": "Potrero Grande",
+      "Acumulados": 22,
+      "Recuperados": 2,
+      "Fallecidos": 2,
+      "Activos": 18
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Buenos Aires",
+      "Distrito": "Volcán",
+      "Acumulados": 8,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Buenos Aires",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Corredores",
+      "Distrito": "Canoas",
+      "Acumulados": 396,
+      "Recuperados": 244,
+      "Fallecidos": 3,
+      "Activos": 149
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Corredores",
+      "Distrito": "Corredor",
+      "Acumulados": 411,
+      "Recuperados": 238,
+      "Fallecidos": 2,
+      "Activos": 171
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Corredores",
+      "Distrito": "La Cuesta",
+      "Acumulados": 162,
+      "Recuperados": 94,
+      "Fallecidos": 2,
+      "Activos": 66
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Corredores",
+      "Distrito": "Laurel",
+      "Acumulados": 136,
+      "Recuperados": 86,
+      "Fallecidos": 2,
+      "Activos": 48
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Corredores",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Coto Brus",
+      "Distrito": "Aguabuena",
+      "Acumulados": 15,
+      "Recuperados": 8,
+      "Fallecidos": 0,
+      "Activos": 7
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Coto Brus",
+      "Distrito": "Gutiérrez Braun",
+      "Acumulados": 14,
+      "Recuperados": 1,
+      "Fallecidos": 1,
+      "Activos": 12
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Coto Brus",
+      "Distrito": "Limoncito",
+      "Acumulados": 10,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 9
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Coto Brus",
+      "Distrito": "Pittier",
+      "Acumulados": 13,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 13
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Coto Brus",
+      "Distrito": "Sabalito",
+      "Acumulados": 30,
+      "Recuperados": 13,
+      "Fallecidos": 0,
+      "Activos": 17
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Coto Brus",
+      "Distrito": "San Vito",
+      "Acumulados": 68,
+      "Recuperados": 12,
+      "Fallecidos": 5,
+      "Activos": 51
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Coto Brus",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Esparza",
+      "Distrito": "Caldera",
+      "Acumulados": 31,
+      "Recuperados": 23,
+      "Fallecidos": 1,
+      "Activos": 7
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Esparza",
+      "Distrito": "Espíritu Santo",
+      "Acumulados": 332,
+      "Recuperados": 257,
+      "Fallecidos": 5,
+      "Activos": 70
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Esparza",
+      "Distrito": "Macacona",
+      "Acumulados": 99,
+      "Recuperados": 71,
+      "Fallecidos": 1,
+      "Activos": 27
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Esparza",
+      "Distrito": "San Jerónimo",
+      "Acumulados": 17,
+      "Recuperados": 11,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Esparza",
+      "Distrito": "San Juan Grande",
+      "Acumulados": 82,
+      "Recuperados": 59,
+      "Fallecidos": 1,
+      "Activos": 22
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Esparza",
+      "Distrito": "San Rafael",
+      "Acumulados": 14,
+      "Recuperados": 11,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Esparza",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 3,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Garabito",
+      "Distrito": "Jacó",
+      "Acumulados": 438,
+      "Recuperados": 236,
+      "Fallecidos": 4,
+      "Activos": 198
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Garabito",
+      "Distrito": "Tárcoles",
+      "Acumulados": 75,
+      "Recuperados": 40,
+      "Fallecidos": 3,
+      "Activos": 32
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Garabito",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 3,
+      "Recuperados": 3,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Golfito",
+      "Distrito": "Golfito",
+      "Acumulados": 100,
+      "Recuperados": 71,
+      "Fallecidos": 0,
+      "Activos": 29
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Golfito",
+      "Distrito": "Guaycará",
+      "Acumulados": 164,
+      "Recuperados": 62,
+      "Fallecidos": 1,
+      "Activos": 101
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Golfito",
+      "Distrito": "Pavón",
+      "Acumulados": 71,
+      "Recuperados": 41,
+      "Fallecidos": 1,
+      "Activos": 29
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Golfito",
+      "Distrito": "Puerto Jiménez",
+      "Acumulados": 52,
+      "Recuperados": 7,
+      "Fallecidos": 0,
+      "Activos": 45
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Golfito",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Montes de Oro",
+      "Distrito": "La Unión",
+      "Acumulados": 7,
+      "Recuperados": 4,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Montes de Oro",
+      "Distrito": "Miramar",
+      "Acumulados": 230,
+      "Recuperados": 120,
+      "Fallecidos": 5,
+      "Activos": 105
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Montes de Oro",
+      "Distrito": "San Isidro",
+      "Acumulados": 81,
+      "Recuperados": 44,
+      "Fallecidos": 0,
+      "Activos": 37
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Montes de Oro",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Osa",
+      "Distrito": "Bahía Ballena",
+      "Acumulados": 18,
+      "Recuperados": 8,
+      "Fallecidos": 0,
+      "Activos": 10
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Osa",
+      "Distrito": "Bahía Drake",
+      "Acumulados": 5,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 3
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Osa",
+      "Distrito": "Palmar",
+      "Acumulados": 192,
+      "Recuperados": 92,
+      "Fallecidos": 11,
+      "Activos": 89
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Osa",
+      "Distrito": "Piedras Blancas",
+      "Acumulados": 35,
+      "Recuperados": 9,
+      "Fallecidos": 1,
+      "Activos": 25
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Osa",
+      "Distrito": "Puerto Cortés",
+      "Acumulados": 58,
+      "Recuperados": 22,
+      "Fallecidos": 0,
+      "Activos": 36
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Osa",
+      "Distrito": "Sierpe",
+      "Acumulados": 13,
+      "Recuperados": 6,
+      "Fallecidos": 2,
+      "Activos": 5
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Osa",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Parrita",
+      "Distrito": "Parrita",
+      "Acumulados": 198,
+      "Recuperados": 128,
+      "Fallecidos": 2,
+      "Activos": 68
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Parrita",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Acapulco",
+      "Acumulados": 38,
+      "Recuperados": 27,
+      "Fallecidos": 1,
+      "Activos": 10
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Arancibia",
+      "Acumulados": 3,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Barranca",
+      "Acumulados": 1177,
+      "Recuperados": 652,
+      "Fallecidos": 11,
+      "Activos": 514
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Chacarita",
+      "Acumulados": 555,
+      "Recuperados": 60,
+      "Fallecidos": 10,
+      "Activos": 485
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Chira",
+      "Acumulados": 12,
+      "Recuperados": 10,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Chomes",
+      "Acumulados": 83,
+      "Recuperados": 41,
+      "Fallecidos": 1,
+      "Activos": 41
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Cóbano",
+      "Acumulados": 56,
+      "Recuperados": 48,
+      "Fallecidos": 0,
+      "Activos": 8
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "El Roble",
+      "Acumulados": 456,
+      "Recuperados": 164,
+      "Fallecidos": 1,
+      "Activos": 291
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Guacimal",
+      "Acumulados": 13,
+      "Recuperados": 11,
+      "Fallecidos": 0,
+      "Activos": 2
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Isla del Coco",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Lepanto",
+      "Acumulados": 123,
+      "Recuperados": 99,
+      "Fallecidos": 1,
+      "Activos": 23
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Manzanillo",
+      "Acumulados": 20,
+      "Recuperados": 14,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Monte Verde",
+      "Acumulados": 29,
+      "Recuperados": 18,
+      "Fallecidos": 1,
+      "Activos": 10
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Paquera",
+      "Acumulados": 102,
+      "Recuperados": 93,
+      "Fallecidos": 1,
+      "Activos": 8
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Pitahaya",
+      "Acumulados": 43,
+      "Recuperados": 28,
+      "Fallecidos": 2,
+      "Activos": 13
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Puntarenas",
+      "Acumulados": 316,
+      "Recuperados": 77,
+      "Fallecidos": 3,
+      "Activos": 236
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Puntarenas",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 7,
+      "Recuperados": 7,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Quepos",
+      "Distrito": "Naranjito",
+      "Acumulados": 64,
+      "Recuperados": 41,
+      "Fallecidos": 2,
+      "Activos": 21
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Quepos",
+      "Distrito": "Quepos",
+      "Acumulados": 367,
+      "Recuperados": 222,
+      "Fallecidos": 6,
+      "Activos": 139
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Quepos",
+      "Distrito": "Savegre",
+      "Acumulados": 27,
+      "Recuperados": 21,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Quepos",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Puntarenas",
+      "Cantón": "Sin información de Cantón",
+      "Distrito": "-1",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Guácimo",
+      "Distrito": "Duacarí",
+      "Acumulados": 50,
+      "Recuperados": 27,
+      "Fallecidos": 0,
+      "Activos": 23
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Guácimo",
+      "Distrito": "Guácimo",
+      "Acumulados": 249,
+      "Recuperados": 159,
+      "Fallecidos": 3,
+      "Activos": 87
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Guácimo",
+      "Distrito": "Mercedes",
+      "Acumulados": 36,
+      "Recuperados": 26,
+      "Fallecidos": 0,
+      "Activos": 10
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Guácimo",
+      "Distrito": "Pocora",
+      "Acumulados": 120,
+      "Recuperados": 65,
+      "Fallecidos": 0,
+      "Activos": 55
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Guácimo",
+      "Distrito": "Río Jiménez",
+      "Acumulados": 88,
+      "Recuperados": 57,
+      "Fallecidos": 2,
+      "Activos": 29
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Guácimo",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 2,
+      "Recuperados": 2,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Limón",
+      "Distrito": "Limón",
+      "Acumulados": 1741,
+      "Recuperados": 1244,
+      "Fallecidos": 19,
+      "Activos": 478
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Limón",
+      "Distrito": "Matama",
+      "Acumulados": 107,
+      "Recuperados": 75,
+      "Fallecidos": 0,
+      "Activos": 32
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Limón",
+      "Distrito": "Río Blanco",
+      "Acumulados": 176,
+      "Recuperados": 124,
+      "Fallecidos": 1,
+      "Activos": 51
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Limón",
+      "Distrito": "Valle de La Estrella",
+      "Acumulados": 337,
+      "Recuperados": 210,
+      "Fallecidos": 2,
+      "Activos": 125
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Limón",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 5,
+      "Recuperados": 5,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Matina",
+      "Distrito": "Batán",
+      "Acumulados": 229,
+      "Recuperados": 89,
+      "Fallecidos": 4,
+      "Activos": 136
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Matina",
+      "Distrito": "Carrandí",
+      "Acumulados": 212,
+      "Recuperados": 93,
+      "Fallecidos": 0,
+      "Activos": 119
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Matina",
+      "Distrito": "Matina",
+      "Acumulados": 147,
+      "Recuperados": 52,
+      "Fallecidos": 1,
+      "Activos": 94
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Matina",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Pococí",
+      "Distrito": "Cariari",
+      "Acumulados": 334,
+      "Recuperados": 155,
+      "Fallecidos": 3,
+      "Activos": 176
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Pococí",
+      "Distrito": "Colorado",
+      "Acumulados": 7,
+      "Recuperados": 3,
+      "Fallecidos": 0,
+      "Activos": 4
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Pococí",
+      "Distrito": "Guápiles",
+      "Acumulados": 528,
+      "Recuperados": 190,
+      "Fallecidos": 6,
+      "Activos": 332
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Pococí",
+      "Distrito": "Jiménez",
+      "Acumulados": 130,
+      "Recuperados": 34,
+      "Fallecidos": 0,
+      "Activos": 96
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Pococí",
+      "Distrito": "La Colonia",
+      "Acumulados": 75,
+      "Recuperados": 28,
+      "Fallecidos": 3,
+      "Activos": 44
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Pococí",
+      "Distrito": "Rita",
+      "Acumulados": 291,
+      "Recuperados": 121,
+      "Fallecidos": 1,
+      "Activos": 169
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Pococí",
+      "Distrito": "Roxana",
+      "Acumulados": 207,
+      "Recuperados": 145,
+      "Fallecidos": 2,
+      "Activos": 60
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Pococí",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 2,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 1
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Siquirres",
+      "Distrito": "El Cairo",
+      "Acumulados": 173,
+      "Recuperados": 113,
+      "Fallecidos": 3,
+      "Activos": 57
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Siquirres",
+      "Distrito": "Florida",
+      "Acumulados": 51,
+      "Recuperados": 45,
+      "Fallecidos": 0,
+      "Activos": 6
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Siquirres",
+      "Distrito": "Germania",
+      "Acumulados": 39,
+      "Recuperados": 29,
+      "Fallecidos": 1,
+      "Activos": 9
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Siquirres",
+      "Distrito": "La Alegría",
+      "Acumulados": 91,
+      "Recuperados": 71,
+      "Fallecidos": 0,
+      "Activos": 20
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Siquirres",
+      "Distrito": "Pacuarito",
+      "Acumulados": 77,
+      "Recuperados": 50,
+      "Fallecidos": 0,
+      "Activos": 27
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Siquirres",
+      "Distrito": "Reventazón",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Siquirres",
+      "Distrito": "Siquirres",
+      "Acumulados": 611,
+      "Recuperados": 380,
+      "Fallecidos": 6,
+      "Activos": 225
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Siquirres",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Talamanca",
+      "Distrito": "Bratsi",
+      "Acumulados": 312,
+      "Recuperados": 38,
+      "Fallecidos": 9,
+      "Activos": 265
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Talamanca",
+      "Distrito": "Cahuita",
+      "Acumulados": 129,
+      "Recuperados": 37,
+      "Fallecidos": 1,
+      "Activos": 91
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Talamanca",
+      "Distrito": "Sixaola",
+      "Acumulados": 228,
+      "Recuperados": 25,
+      "Fallecidos": 2,
+      "Activos": 201
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Talamanca",
+      "Distrito": "Telire",
+      "Acumulados": 238,
+      "Recuperados": 14,
+      "Fallecidos": 8,
+      "Activos": 216
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Talamanca",
+      "Distrito": "Sin información de distrito",
+      "Acumulados": 1,
+      "Recuperados": 1,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Limón",
+      "Cantón": "Sin información de Cantón",
+      "Distrito": "-1",
+      "Acumulados": 0,
+      "Recuperados": 0,
+      "Fallecidos": 0,
+      "Activos": 0
+    },
+    {
+      "Provincia": "Otros2",
+      "Cantón": "-1",
+      "Distrito": "-1",
+      "Acumulados": 580,
+      "Recuperados": 306,
+      "Fallecidos": 0,
+      "Activos": 274
+    },
+    {
+      "Provincia": "TOTAL",
+      "Cantón": "-1",
+      "Distrito": "-1",
+      "Acumulados": 103088,
+      "Recuperados": 62037,
+      "Fallecidos": 1282,
+      "Activos": 39769
+    }
+   ]
