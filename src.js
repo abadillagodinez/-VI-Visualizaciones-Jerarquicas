@@ -1,14 +1,12 @@
-import { jQuery } from 'jquery.js';
+var data;
+function preload(){
+  data = loadJSON("Data.json");
+}
 
-var filePath = 'C:\Users\adria\Documents\OneDrive - Estudiantes ITCR\II SEMESTRE 2020\Visualización de Información\-VI-Visualizaciones-Jerarquicas\Data.json'
-var data = jQuery.getJSON(filePath, {
-    tagmode: "any",
-    format: "json"
-})
-console.log(data.collection.lenght);
 function setup() {
     createCanvas(600, 600);
     noLoop();
+    console.log(data[0]["Cantón"])
 }
   
 function draw() {
@@ -17,6 +15,6 @@ function draw() {
     } else {
       fill(255);
     }
-    ellipse(50, 50, 80, 80);
+    ellipse(300, 300, 80, 80);
     var l;
 }
